@@ -1618,7 +1618,7 @@
           title: "热搜女演员"
         }
       ], 
-      title: "", 
+      title: "热搜", 
       ui_type: {
         name: "block_list"
       }, 
