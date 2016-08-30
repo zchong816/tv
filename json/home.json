@@ -74,6 +74,7 @@
               }, 
               title: "灭罪师", 
               ui_type: {
+                align: "left",
                 style: "movie", 
                 name: "display_item", 
                 pos: {
