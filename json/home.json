@@ -466,8 +466,7 @@
             unitary: true, 
             ratio: 0.6867, 
             name: "block_grid", 
-            columns: 6,
-            align: "left"
+            columns: 6
           }, 
           id: "CD/552", 
           title: "电视剧热搜榜"
