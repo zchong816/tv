@@ -146,7 +146,7 @@
             columns: 3
           }, 
           id: "CD/14",
-          title: "分类"
+          title: "海报"
         }, 
         {
           items: [
@@ -331,8 +331,8 @@
             name: "block_grid_button", 
             columns: 6
           }, 
-          title: "海报",
-          id: "CD/190"
+          id: "CD/190",
+          title: "分类"
         }, 
         {
           items: [
@@ -452,7 +452,7 @@
           id: "CD/358", 
           title: "同步跟播大剧"
         }, 
-        {gen
+        {
           items: [
             {
               stat: {
