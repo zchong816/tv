@@ -90,6 +90,10 @@
                   url: "http://image.cdn.pandora.xiaomi.com/mitv/10007/2/bcfd4bcfdd8c7a03b80a7756f041815a.png", 
                   align: "mid", 
                   md5: "bcfd4bcfdd8c7a03b80a7756f041815a"
+                },
+                right_bottom_corner: {
+                  url: "http://image.box.xiaomi.com/mfsv2/download/s010/p019ylXac1e5/go3djq10wWi552.png", 
+                  md5: "13a2626d0454979a48f9f10751ac1585"
                 }
               }, 
               ns: "video", 
