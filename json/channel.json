@@ -25,7 +25,7 @@
                 params: {
                   android_intent: "intent:#Intent;action=android.intent.action.MITV_VIDEO_DETAILS;S.id=325466;end"
                 }, 
-                schema: "mitv"
+                schema: "yktv"
               }, 
               ui_type: {
                 style: "movie", 
@@ -65,7 +65,7 @@
                   android_intent: "tenvideo2://?action=1&cover_id=f1dfsxi495c6p9z&pull_from=101503#Intent;action=com.tencent.qqlivetv.open;launchFlags=0x10000000;package=com.ktcp.tvvideo;end", 
                   android_version_code: 1240
                 }, 
-                schema: "mitv"
+                schema: "yktv"
               }, 
               ui_type: {
                 style: "movie", 
@@ -110,7 +110,7 @@
                   android_intent: "tenvideo2://?action=1&cover_id=ftst3o1rq7snhcu&pull_from=101503#Intent;action=com.tencent.qqlivetv.open;launchFlags=0x10000000;package=com.ktcp.tvvideo;end", 
                   android_version_code: 1240
                 }, 
-                schema: "mitv"
+                schema: "yktv"
               }, 
               ui_type: {
                 style: "movie", 
@@ -346,7 +346,7 @@
                 params: {
                   android_intent: "intent:#Intent;action=android.intent.action.MITV_VIDEO_DETAILS;S.id=333056;end"
                 }, 
-                schema: "mitv"
+                schema: "yktv"
               }, 
               ui_type: {
                 style: "movie", 
@@ -382,7 +382,7 @@
                   android_intent: "tenvideo2://?action=1&cover_id=vt04yrskxposhi0&pull_from=101503#Intent;action=com.tencent.qqlivetv.open;launchFlags=0x10000000;package=com.ktcp.tvvideo;end", 
                   android_version_code: 1240
                 }, 
-                schema: "mitv"
+                schema: "yktv"
               }, 
               ui_type: {
                 style: "movie", 
@@ -417,7 +417,7 @@
                 params: {
                   android_intent: "intent:#Intent;action=android.intent.action.MITV_VIDEO_DETAILS;S.id=341211;end"
                 }, 
-                schema: "mitv"
+                schema: "yktv"
               }, 
               ui_type: {
                 style: "movie", 
@@ -464,7 +464,7 @@
                 params: {
                   android_intent: "intent:#Intent;action=android.intent.action.MITV_VIDEO_DETAILS;S.id=342077;end"
                 }, 
-                schema: "mitv"
+                schema: "yktv"
               }, 
               title: "结婚为什么", 
               ui_type: {
@@ -500,7 +500,7 @@
                 params: {
                   android_intent: "intent:#Intent;action=android.intent.action.MITV_VIDEO_DETAILS;S.id=340552;end"
                 }, 
-                schema: "mitv"
+                schema: "yktv"
               }, 
               title: "灰姑娘与四骑士", 
               ui_type: {
@@ -536,7 +536,7 @@
                 params: {
                   android_intent: "intent:#Intent;action=android.intent.action.MITV_VIDEO_DETAILS;S.id=339901;end"
                 }, 
-                schema: "mitv"
+                schema: "yktv"
               }, 
               title: "麻辣变形计", 
               ui_type: {
@@ -572,7 +572,7 @@
                 params: {
                   android_intent: "intent:#Intent;action=android.intent.action.MITV_VIDEO_DETAILS;S.id=331789;end"
                 }, 
-                schema: "mitv"
+                schema: "yktv"
               }, 
               title: "灭罪师", 
               ui_type: {
@@ -608,7 +608,7 @@
                 params: {
                   android_intent: "intent:#Intent;action=android.intent.action.MITV_VIDEO_DETAILS;S.id=336145;end"
                 }, 
-                schema: "mitv"
+                schema: "yktv"
               }, 
               title: "校花的贴身高手2", 
               ui_type: {
@@ -645,7 +645,7 @@
                   android_intent: "tenvideo2://?action=1&cover_id=mva1cfks0d0utzw&pull_from=101503#Intent;action=com.tencent.qqlivetv.open;launchFlags=0x10000000;package=com.ktcp.tvvideo;end", 
                   android_version_code: 1240
                 }, 
-                schema: "mitv"
+                schema: "yktv"
               }, 
               title: "一起同过窗", 
               ui_type: {
@@ -692,7 +692,7 @@
                 params: {
                   android_intent: "intent:#Intent;action=android.intent.action.MITV_VIDEO_DETAILS;S.id=332308;end"
                 }, 
-                schema: "mitv"
+                schema: "yktv"
               }, 
               ui_type: {
                 style: "movie", 
@@ -728,7 +728,7 @@
                   android_intent: "tenvideo2://?action=1&cover_id=vt04yrskxposhi0&pull_from=101503#Intent;action=com.tencent.qqlivetv.open;launchFlags=0x10000000;package=com.ktcp.tvvideo;end", 
                   android_version_code: 1240
                 }, 
-                schema: "mitv"
+                schema: "yktv"
               }, 
               ui_type: {
                 style: "movie", 
@@ -763,7 +763,7 @@
                 params: {
                   android_intent: "intent:#Intent;action=android.intent.action.MITV_VIDEO_DETAILS;S.id=317680;end"
                 }, 
-                schema: "mitv"
+                schema: "yktv"
               }, 
               ui_type: {
                 style: "movie", 
@@ -798,7 +798,7 @@
                 params: {
                   android_intent: "intent:#Intent;action=android.intent.action.MITV_VIDEO_DETAILS;S.id=320245;end"
                 }, 
-                schema: "mitv"
+                schema: "yktv"
               }, 
               ui_type: {
                 style: "movie", 
@@ -845,7 +845,7 @@
                 params: {
                   android_intent: "intent:#Intent;action=android.intent.action.MITV_VIDEO_DETAILS;S.id=320719;end"
                 }, 
-                schema: "mitv"
+                schema: "yktv"
               }, 
               title: "解密", 
               ui_type: {
@@ -881,7 +881,7 @@
                 params: {
                   android_intent: "intent:#Intent;action=android.intent.action.MITV_VIDEO_DETAILS;S.id=326711;end"
                 }, 
-                schema: "mitv"
+                schema: "yktv"
               }, 
               title: "警花与警犬", 
               ui_type: {
@@ -917,7 +917,7 @@
                 params: {
                   android_intent: "intent:#Intent;action=android.intent.action.MITV_VIDEO_DETAILS;S.id=316739;end"
                 }, 
-                schema: "mitv"
+                schema: "yktv"
               }, 
               title: "我们的纯真年代", 
               ui_type: {
@@ -953,7 +953,7 @@
                 params: {
                   android_intent: "intent:#Intent;action=android.intent.action.MITV_VIDEO_DETAILS;S.id=330846;end"
                 }, 
-                schema: "mitv"
+                schema: "yktv"
               }, 
               title: "幸福满屋", 
               ui_type: {
@@ -989,7 +989,7 @@
                 params: {
                   android_intent: "intent:#Intent;action=android.intent.action.MITV_VIDEO_DETAILS;S.id=326719;end"
                 }, 
-                schema: "mitv"
+                schema: "yktv"
               }, 
               title: "追击者", 
               ui_type: {
@@ -1025,7 +1025,7 @@
                   android_component: "com.hunantv.market", 
                   android_intent: "#Intent;action=com.hunantv.market;S.video_type=0;S.cmd_ex=show_video_detail;S.video_id=c9a31c1d9a7e5a1647ead4e2320e885d;S.video_ui_style=0;end"
                 }, 
-                schema: "mitv"
+                schema: "yktv"
               }, 
               title: "亲爱的翻译官", 
               ui_type: {

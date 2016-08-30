@@ -21,7 +21,7 @@
             params: {
               android_intent: "intent:#Intent;action=android.intent.action.MITV_VIDEO_DETAILS;S.id=345256;end"
             }, 
-            schema: "mitv"
+            schema: "yktv"
           }, 
           title: "红色通道", 
           ui_type: {
@@ -58,7 +58,7 @@
               android_intent: "tenvideo2://?action=1&cover_id=mva1cfks0d0utzw&pull_from=101503#Intent;action=com.tencent.qqlivetv.open;launchFlags=0x10000000;package=com.ktcp.tvvideo;end", 
               android_version_code: 1240
             }, 
-            schema: "mitv"
+            schema: "yktv"
           }, 
           title: "一起同过窗", 
           ui_type: {
@@ -94,7 +94,7 @@
             params: {
               android_intent: "intent:#Intent;action=android.intent.action.MITV_VIDEO_DETAILS;S.id=342077;end"
             }, 
-            schema: "mitv"
+            schema: "yktv"
           }, 
           title: "结婚为什么", 
           ui_type: {
@@ -130,7 +130,7 @@
             params: {
               android_intent: "intent:#Intent;action=android.intent.action.MITV_VIDEO_DETAILS;S.id=340552;end"
             }, 
-            schema: "mitv"
+            schema: "yktv"
           }, 
           title: "灰姑娘与四骑士", 
           ui_type: {
@@ -167,7 +167,7 @@
               android_intent: "tenvideo2://?action=1&cover_id=vt04yrskxposhi0&pull_from=101503#Intent;action=com.tencent.qqlivetv.open;launchFlags=0x10000000;package=com.ktcp.tvvideo;end", 
               android_version_code: 1240
             }, 
-            schema: "mitv"
+            schema: "yktv"
           }, 
           title: "九州天空城", 
           ui_type: {
@@ -200,7 +200,7 @@
           target: {
             url: "/tv/lean/v/filter?id=343&pageno=0&title=%E5%85%A8%E9%83%A8%E7%94%B5%E8%A7%86%E5%89%A7", 
             entity: "channel", 
-            schema: "mitv"
+            schema: "yktv"
           }, 
           title: "全部电视剧", 
           ui_type: {
@@ -246,7 +246,7 @@
             params: {
               android_intent: "intent:#Intent;action=android.intent.action.MITV_VIDEO_DETAILS;S.id=179053;end"
             }, 
-            schema: "mitv"
+            schema: "yktv"
           }, 
           ui_type: {
             style: "movie", 
@@ -286,7 +286,7 @@
             params: {
               android_intent: "intent:#Intent;action=android.intent.action.MITV_VIDEO_DETAILS;S.id=179665;end"
             }, 
-            schema: "mitv"
+            schema: "yktv"
           }, 
           ui_type: {
             style: "movie", 
@@ -338,7 +338,7 @@
             params: {
               android_intent: "intent:#Intent;action=android.intent.action.MITV_VIDEO_DETAILS;S.id=323604;end"
             }, 
-            schema: "mitv"
+            schema: "yktv"
           }, 
           title: "妖医", 
           ui_type: {
@@ -374,7 +374,7 @@
             params: {
               android_intent: "intent:#Intent;action=android.intent.action.MITV_VIDEO_DETAILS;S.id=319565;end"
             }, 
-            schema: "mitv"
+            schema: "yktv"
           }, 
           title: "魔宫魅影", 
           ui_type: {
@@ -410,7 +410,7 @@
             params: {
               android_intent: "intent:#Intent;action=android.intent.action.MITV_VIDEO_DETAILS;S.id=178723;end"
             }, 
-            schema: "mitv"
+            schema: "yktv"
           }, 
           title: "极限挑战之皇家宝藏", 
           ui_type: {
@@ -446,7 +446,7 @@
             params: {
               android_intent: "intent:#Intent;action=android.intent.action.MITV_VIDEO_DETAILS;S.id=302296;end"
             }, 
-            schema: "mitv"
+            schema: "yktv"
           }, 
           title: "海豹突击队大战僵尸", 
           ui_type: {
@@ -482,7 +482,7 @@
             params: {
               android_intent: "intent:#Intent;action=android.intent.action.MITV_VIDEO_DETAILS;S.id=321351;end"
             }, 
-            schema: "mitv"
+            schema: "yktv"
           }, 
           title: "大唐玄奘", 
           ui_type: {
@@ -515,7 +515,7 @@
           target: {
             url: "/tv/lean/v/filter?id=775&pageno=0&title=%E5%85%A8%E9%83%A8%E5%85%8D%E8%B4%B9%E7%94%B5%E5%BD%B1", 
             entity: "channel", 
-            schema: "mitv"
+            schema: "yktv"
           }, 
           title: "全部免费电影", 
           ui_type: {
@@ -561,7 +561,7 @@
             params: {
               android_intent: "intent:#Intent;action=android.intent.action.MITV_VIDEO_DETAILS;S.id=322462;end"
             }, 
-            schema: "mitv"
+            schema: "yktv"
           }, 
           ui_type: {
             style: "movie", 
@@ -596,7 +596,7 @@
               android_component: "com.wasu.wasutvcs", 
               android_intent: "#Intent;action=com.wasu.wasutvcs.action;S.nodeId=151463;S.vendor=xiaomi;S.tag=variety;S.proId=151463;S.layoutCode=Singer_Album_List;end"
             }, 
-            schema: "mitv"
+            schema: "yktv"
           }, 
           ui_type: {
             style: "movie", 
@@ -635,7 +635,7 @@
             params: {
               android_intent: "intent:#Intent;action=android.intent.action.MITV_VIDEO_DETAILS;S.id=317548;end"
             }, 
-            schema: "mitv"
+            schema: "yktv"
           }, 
           ui_type: {
             style: "movie", 
@@ -682,7 +682,7 @@
             params: {
               android_intent: "intent:#Intent;action=android.intent.action.MITV_VIDEO_DETAILS;S.id=346542;end"
             }, 
-            schema: "mitv"
+            schema: "yktv"
           }, 
           title: "隐藏的歌手 第二季", 
           ui_type: {
@@ -718,7 +718,7 @@
             params: {
               android_intent: "intent:#Intent;action=android.intent.action.MITV_VIDEO_DETAILS;S.id=329379;end"
             }, 
-            schema: "mitv"
+            schema: "yktv"
           }, 
           title: "我们战斗吧", 
           ui_type: {
@@ -754,7 +754,7 @@
             params: {
               android_intent: "intent:#Intent;action=android.intent.action.MITV_VIDEO_DETAILS;S.id=320178;end"
             }, 
-            schema: "mitv"
+            schema: "yktv"
           }, 
           title: "花样男团", 
           ui_type: {
@@ -790,7 +790,7 @@
             params: {
               android_intent: "intent:#Intent;action=android.intent.action.MITV_VIDEO_DETAILS;S.id=315784;end"
             }, 
-            schema: "mitv"
+            schema: "yktv"
           }, 
           title: "挑战者联盟 第二季", 
           ui_type: {
@@ -826,7 +826,7 @@
             params: {
               android_intent: "intent:#Intent;action=android.intent.action.MITV_VIDEO_DETAILS;S.id=320339;end"
             }, 
-            schema: "mitv"
+            schema: "yktv"
           }, 
           title: "盖世英雄", 
           ui_type: {
@@ -859,7 +859,7 @@
           target: {
             url: "/tv/lean/v/filter?id=479&pageno=0&title=%E5%85%A8%E9%83%A8%E7%BB%BC%E8%89%BA", 
             entity: "channel", 
-            schema: "mitv"
+            schema: "yktv"
           }, 
           title: "全部综艺", 
           ui_type: {
@@ -960,7 +960,7 @@
           target: {
             url: "/tv/lean/ml?id=68036", 
             entity: "v:milist", 
-            schema: "mitv"
+            schema: "yktv"
           }, 
           ui_type: {
             name: "display_item", 

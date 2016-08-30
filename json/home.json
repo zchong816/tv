@@ -28,7 +28,7 @@
               }, 
               target: {
                 url: "/tv/lean/v?id=325466", 
-                schema: "mitv", 
+                schema: "yktv", 
                 params: {
                   android_intent: "intent:#Intent;action=android.intent.action.MITV_VIDEO_DETAILS;S.id=325466;end"
                 }, 
@@ -64,7 +64,7 @@
               }, 
               target: {
                 url: "/tv/lean/v?id=331789", 
-                schema: "mitv", 
+                schema: "yktv", 
                 params: {
                   android_intent: "intent:#Intent;action=android.intent.action.MITV_VIDEO_DETAILS;S.id=331789;end"
                 }, 
@@ -100,7 +100,7 @@
               }, 
               target: {
                 url: "/tv/lean/v?id=116802", 
-                schema: "mitv", 
+                schema: "yktv", 
                 params: {
                   android_intent: "intent:#Intent;action=android.intent.action.MITV_VIDEO_DETAILS;S.id=116802;end"
                 }, 
@@ -136,7 +136,7 @@
               }, 
               target: {
                 url: "/tv/lean/v?id=333056", 
-                schema: "mitv", 
+                schema: "yktv", 
                 params: {
                   android_intent: "intent:#Intent;action=android.intent.action.MITV_VIDEO_DETAILS;S.id=333056;end"
                 }, 
@@ -171,7 +171,7 @@
                 tp: "album"
               }, 
               target: {
-                schema: "mitv", 
+                schema: "yktv", 
                 params: {
                   android_intent: "#Intent;action=com.hunantv.market;S.video_type=0;S.cmd_ex=show_video_detail;S.video_id=80a81f76382dee3ba5e4de5de5544f5d;S.video_ui_style=0;end", 
                   android_component: "com.hunantv.market"
@@ -211,7 +211,7 @@
                 tp: "album"
               }, 
               target: {
-                schema: "mitv", 
+                schema: "yktv", 
                 params: {
                   android_intent: "tenvideo2://?action=1&cover_id=vt04yrskxposhi0&pull_from=101503#Intent;action=com.tencent.qqlivetv.open;launchFlags=0x10000000;package=com.ktcp.tvvideo;end", 
                   android_component: "com.ktcp.tvvideo", 
@@ -249,7 +249,7 @@
               }, 
               target: {
                 url: "/tv/lean/v?id=336145", 
-                schema: "mitv", 
+                schema: "yktv", 
                 params: {
                   android_intent: "intent:#Intent;action=android.intent.action.MITV_VIDEO_DETAILS;S.id=336145;end"
                 }, 
@@ -285,7 +285,7 @@
               }, 
               target: {
                 url: "/tv/lean/v?id=264313", 
-                schema: "mitv", 
+                schema: "yktv", 
                 params: {
                   android_intent: "intent:#Intent;action=android.intent.action.MITV_VIDEO_DETAILS;S.id=264313;end"
                 }, 
@@ -321,7 +321,7 @@
               }, 
               target: {
                 url: "/tv/lean/v?id=234010", 
-                schema: "mitv", 
+                schema: "yktv", 
                 params: {
                   android_intent: "intent:#Intent;action=android.intent.action.MITV_VIDEO_DETAILS;S.id=234010;end"
                 }, 
@@ -357,7 +357,7 @@
               }, 
               target: {
                 url: "/tv/lean/v?id=131029", 
-                schema: "mitv", 
+                schema: "yktv", 
                 params: {
                   android_intent: "intent:#Intent;action=android.intent.action.MITV_VIDEO_DETAILS;S.id=131029;end"
                 }, 
@@ -393,7 +393,7 @@
               }, 
               target: {
                 url: "/tv/lean/v?id=332308", 
-                schema: "mitv", 
+                schema: "yktv", 
                 params: {
                   android_intent: "intent:#Intent;action=android.intent.action.MITV_VIDEO_DETAILS;S.id=332308;end"
                 }, 
@@ -428,7 +428,7 @@
                 tp: "album"
               }, 
               target: {
-                schema: "mitv", 
+                schema: "yktv", 
                 params: {
                   android_intent: "tenvideo2://?action=1&cover_id=xfxd9mej2luhfoz&pull_from=101503#Intent;action=com.tencent.qqlivetv.open;launchFlags=0x10000000;package=com.ktcp.tvvideo;end", 
                   android_component: "com.ktcp.tvvideo", 
@@ -478,7 +478,7 @@
               }, 
               target: {
                 url: "/tv/lean/v?id=233925", 
-                schema: "mitv", 
+                schema: "yktv", 
                 params: {
                   android_intent: "intent:#Intent;action=android.intent.action.MITV_VIDEO_DETAILS;S.id=233925;end"
                 }, 
@@ -514,7 +514,7 @@
               }, 
               target: {
                 url: "/tv/lean/v?id=179665", 
-                schema: "mitv", 
+                schema: "yktv", 
                 params: {
                   android_intent: "intent:#Intent;action=android.intent.action.MITV_VIDEO_DETAILS;S.id=179665;end"
                 }, 
@@ -550,7 +550,7 @@
               }, 
               target: {
                 url: "/tv/lean/v?id=181078", 
-                schema: "mitv", 
+                schema: "yktv", 
                 params: {
                   android_intent: "intent:#Intent;action=android.intent.action.MITV_VIDEO_DETAILS;S.id=181078;end"
                 }, 
@@ -586,7 +586,7 @@
               }, 
               target: {
                 url: "/tv/lean/v?id=245577", 
-                schema: "mitv", 
+                schema: "yktv", 
                 params: {
                   android_intent: "intent:#Intent;action=android.intent.action.MITV_VIDEO_DETAILS;S.id=245577;end"
                 }, 
@@ -621,7 +621,7 @@
                 tp: "album"
               }, 
               target: {
-                schema: "mitv", 
+                schema: "yktv", 
                 params: {
                   android_intent: "#Intent;action=com.hunantv.market;S.video_type=0;S.cmd_ex=show_video_detail;S.video_id=8b2cef5834f961e2b7cd49f3603b17fb;S.video_ui_style=0;end", 
                   android_component: "com.hunantv.market"
@@ -662,7 +662,7 @@
               }, 
               target: {
                 url: "/tv/lean/v?id=147040", 
-                schema: "mitv", 
+                schema: "yktv", 
                 params: {
                   android_intent: "intent:#Intent;action=android.intent.action.MITV_VIDEO_DETAILS;S.id=147040;end"
                 }, 
@@ -709,7 +709,7 @@
                 tp: "album"
               }, 
               target: {
-                schema: "mitv", 
+                schema: "yktv", 
                 params: {
                   android_intent: "tenvideo2://?action=1&cover_id=y4agx1fcsw25pnt&pull_from=101503#Intent;action=com.tencent.qqlivetv.open;launchFlags=0x10000000;package=com.ktcp.tvvideo;end", 
                   android_component: "com.ktcp.tvvideo", 
@@ -746,7 +746,7 @@
                 tp: "album"
               }, 
               target: {
-                schema: "mitv", 
+                schema: "yktv", 
                 params: {
                   android_intent: "#Intent;action=com.hunantv.market;S.video_type=0;S.cmd_ex=show_video_detail;S.video_id=d7a42cbde5968770f862bfff57dabd94;S.video_ui_style=0;end", 
                   android_component: "com.hunantv.market"
@@ -787,7 +787,7 @@
               }, 
               target: {
                 url: "/tv/lean/v?id=317548", 
-                schema: "mitv", 
+                schema: "yktv", 
                 params: {
                   android_intent: "intent:#Intent;action=android.intent.action.MITV_VIDEO_DETAILS;S.id=317548;end"
                 }, 
@@ -822,7 +822,7 @@
                 tp: "album"
               }, 
               target: {
-                schema: "mitv", 
+                schema: "yktv", 
                 params: {
                   android_intent: "#Intent;action=com.hunantv.market;S.video_type=0;S.cmd_ex=show_video_detail;S.video_id=ef1dfbd74b29da33c9aa1ef513abe91f;S.video_ui_style=0;end", 
                   android_component: "com.hunantv.market"
@@ -863,7 +863,7 @@
               }, 
               target: {
                 url: "/tv/lean/v?id=317549", 
-                schema: "mitv", 
+                schema: "yktv", 
                 params: {
                   android_intent: "intent:#Intent;action=android.intent.action.MITV_VIDEO_DETAILS;S.id=317549;end"
                 }, 
@@ -899,7 +899,7 @@
               }, 
               target: {
                 url: "/tv/lean/v?id=147543", 
-                schema: "mitv", 
+                schema: "yktv", 
                 params: {
                   android_intent: "intent:#Intent;action=android.intent.action.MITV_VIDEO_DETAILS;S.id=147543;end"
                 }, 
@@ -934,7 +934,7 @@
                 tp: "album"
               }, 
               target: {
-                schema: "mitv", 
+                schema: "yktv", 
                 params: {
                   android_intent: "#Intent;action=com.hunantv.market;S.video_type=0;S.cmd_ex=show_video_detail;S.video_id=30ad1fc2f189f687f7d9c3f32a53525d;S.video_ui_style=0;end", 
                   android_component: "com.hunantv.market"
@@ -974,7 +974,7 @@
                 tp: "album"
               }, 
               target: {
-                schema: "mitv", 
+                schema: "yktv", 
                 params: {
                   android_intent: "#Intent;action=com.hunantv.market;S.video_type=0;S.cmd_ex=show_video_detail;S.video_id=cd10902d55e20541af556813c321d9bd;S.video_ui_style=0;end", 
                   android_component: "com.hunantv.market"
@@ -1014,7 +1014,7 @@
                 tp: "album"
               }, 
               target: {
-                schema: "mitv", 
+                schema: "yktv", 
                 params: {
                   android_intent: "#Intent;action=com.hunantv.market;S.video_type=0;S.cmd_ex=show_video_detail;S.video_id=aaaf2a545dcd7aabf8d2c1f0084078bf;S.video_ui_style=0;end", 
                   android_component: "com.hunantv.market"
@@ -1054,7 +1054,7 @@
                 tp: "album"
               }, 
               target: {
-                schema: "mitv", 
+                schema: "yktv", 
                 params: {
                   android_intent: "#Intent;action=com.wasu.wasutvcs.action;S.nodeId=151463;S.vendor=xiaomi;S.tag=variety;S.proId=151463;S.layoutCode=Singer_Album_List;end", 
                   android_component: "com.wasu.wasutvcs"
@@ -1095,7 +1095,7 @@
               }, 
               target: {
                 url: "/tv/lean/v?id=233531", 
-                schema: "mitv", 
+                schema: "yktv", 
                 params: {
                   android_intent: "intent:#Intent;action=android.intent.action.MITV_VIDEO_DETAILS;S.id=233531;end"
                 }, 
@@ -1130,7 +1130,7 @@
                 tp: "album"
               }, 
               target: {
-                schema: "mitv", 
+                schema: "yktv", 
                 params: {
                   android_intent: "tenvideo2://?action=17&column_id=640&column_type=10&pull_from=101503#Intent;action=com.tencent.qqlivetv.open;launchFlags=0x10000000;package=com.ktcp.tvvideo;end", 
                   android_component: "com.ktcp.tvvideo", 
@@ -1179,7 +1179,7 @@
                 tp: "celebrity"
               }, 
               target: {
-                schema: "mitv", 
+                schema: "yktv", 
                 params: {
                   android_intent: "#Intent;action=android.intent.action.MITV_HOME_VIDEO_CINEASTE_WORKS;S.id=95708;end"
                 }, 
@@ -1214,7 +1214,7 @@
                 tp: "celebrity"
               }, 
               target: {
-                schema: "mitv", 
+                schema: "yktv", 
                 params: {
                   android_intent: "#Intent;action=android.intent.action.MITV_HOME_VIDEO_CINEASTE_WORKS;S.id=122677;end"
                 }, 
@@ -1249,7 +1249,7 @@
                 tp: "celebrity"
               }, 
               target: {
-                schema: "mitv", 
+                schema: "yktv", 
                 params: {
                   android_intent: "#Intent;action=android.intent.action.MITV_HOME_VIDEO_CINEASTE_WORKS;S.id=96378;end"
                 }, 
@@ -1284,7 +1284,7 @@
                 tp: "celebrity"
               }, 
               target: {
-                schema: "mitv", 
+                schema: "yktv", 
                 params: {
                   android_intent: "#Intent;action=android.intent.action.MITV_HOME_VIDEO_CINEASTE_WORKS;S.id=98349;end"
                 }, 
@@ -1319,7 +1319,7 @@
                 tp: "celebrity"
               }, 
               target: {
-                schema: "mitv", 
+                schema: "yktv", 
                 params: {
                   android_intent: "#Intent;action=android.intent.action.MITV_HOME_VIDEO_CINEASTE_WORKS;S.id=113766;end"
                 }, 
@@ -1354,7 +1354,7 @@
                 tp: "celebrity"
               }, 
               target: {
-                schema: "mitv", 
+                schema: "yktv", 
                 params: {
                   android_intent: "#Intent;action=android.intent.action.MITV_HOME_VIDEO_CINEASTE_WORKS;S.id=154083;end"
                 }, 
@@ -1402,7 +1402,7 @@
                 tp: "celebrity"
               }, 
               target: {
-                schema: "mitv", 
+                schema: "yktv", 
                 params: {
                   android_intent: "#Intent;action=android.intent.action.MITV_HOME_VIDEO_CINEASTE_WORKS;S.id=106275;end"
                 }, 
@@ -1437,7 +1437,7 @@
                 tp: "celebrity"
               }, 
               target: {
-                schema: "mitv", 
+                schema: "yktv", 
                 params: {
                   android_intent: "#Intent;action=android.intent.action.MITV_HOME_VIDEO_CINEASTE_WORKS;S.id=122779;end"
                 }, 
@@ -1472,7 +1472,7 @@
                 tp: "celebrity"
               }, 
               target: {
-                schema: "mitv", 
+                schema: "yktv", 
                 params: {
                   android_intent: "#Intent;action=android.intent.action.MITV_HOME_VIDEO_CINEASTE_WORKS;S.id=108890;end"
                 }, 
@@ -1507,7 +1507,7 @@
                 tp: "celebrity"
               }, 
               target: {
-                schema: "mitv", 
+                schema: "yktv", 
                 params: {
                   android_intent: "#Intent;action=android.intent.action.MITV_HOME_VIDEO_CINEASTE_WORKS;S.id=97445;end"
                 }, 
@@ -1542,7 +1542,7 @@
                 tp: "celebrity"
               }, 
               target: {
-                schema: "mitv", 
+                schema: "yktv", 
                 params: {
                   android_intent: "#Intent;action=android.intent.action.MITV_HOME_VIDEO_CINEASTE_WORKS;S.id=122369;end"
                 }, 
@@ -1577,7 +1577,7 @@
                 tp: "celebrity"
               }, 
               target: {
-                schema: "mitv", 
+                schema: "yktv", 
                 params: {
                   android_intent: "#Intent;action=android.intent.action.MITV_HOME_VIDEO_CINEASTE_WORKS;S.id=96643;end"
                 }, 
@@ -1652,7 +1652,7 @@
               }, 
               target: {
                 url: "/tv/lean/v?id=345464", 
-                schema: "mitv", 
+                schema: "yktv", 
                 params: {
                   android_intent: "intent:#Intent;action=android.intent.action.MITV_VIDEO_DETAILS;S.id=345464;end"
                 }, 
@@ -1692,7 +1692,7 @@
               }, 
               target: {
                 url: "/tv/lean/v?id=341211", 
-                schema: "mitv", 
+                schema: "yktv", 
                 params: {
                   android_intent: "intent:#Intent;action=android.intent.action.MITV_VIDEO_DETAILS;S.id=341211;end"
                 }, 
@@ -1727,7 +1727,7 @@
               }, 
               target: {
                 url: "/tv/lean/v?id=343675", 
-                schema: "mitv", 
+                schema: "yktv", 
                 params: {
                   android_intent: "intent:#Intent;action=android.intent.action.MITV_VIDEO_DETAILS;S.id=343675;end"
                 }, 
@@ -1762,7 +1762,7 @@
               }, 
               target: {
                 url: "/tv/lean/v?id=344464", 
-                schema: "mitv", 
+                schema: "yktv", 
                 params: {
                   android_intent: "intent:#Intent;action=android.intent.action.MITV_VIDEO_DETAILS;S.id=344464;end"
                 }, 
@@ -1797,7 +1797,7 @@
               }, 
               target: {
                 url: "/tv/lean/v?id=334412", 
-                schema: "mitv", 
+                schema: "yktv", 
                 params: {
                   android_intent: "intent:#Intent;action=android.intent.action.MITV_VIDEO_DETAILS;S.id=334412;end"
                 }, 
@@ -1842,7 +1842,7 @@
                 tp: "album"
               }, 
               target: {
-                schema: "mitv", 
+                schema: "yktv", 
                 params: {
                   android_intent: "tenvideo2://?action=1&cover_id=f1dfsxi495c6p9z&pull_from=101503#Intent;action=com.tencent.qqlivetv.open;launchFlags=0x10000000;package=com.ktcp.tvvideo;end", 
                   android_component: "com.ktcp.tvvideo", 
@@ -1884,7 +1884,7 @@
               }, 
               target: {
                 url: "/tv/lean/v?id=333056", 
-                schema: "mitv", 
+                schema: "yktv", 
                 params: {
                   android_intent: "intent:#Intent;action=android.intent.action.MITV_VIDEO_DETAILS;S.id=333056;end"
                 }, 
@@ -1931,7 +1931,7 @@
               }, 
               target: {
                 url: "/tv/lean/v?id=180856", 
-                schema: "mitv", 
+                schema: "yktv", 
                 params: {
                   android_intent: "intent:#Intent;action=android.intent.action.MITV_VIDEO_DETAILS;S.id=180856;end"
                 }, 
@@ -1966,7 +1966,7 @@
               }, 
               target: {
                 url: "/tv/lean/v?id=320704", 
-                schema: "mitv", 
+                schema: "yktv", 
                 params: {
                   android_intent: "intent:#Intent;action=android.intent.action.MITV_VIDEO_DETAILS;S.id=320704;end"
                 }, 
@@ -2001,7 +2001,7 @@
               }, 
               target: {
                 url: "/tv/lean/ml?id=68764", 
-                schema: "mitv", 
+                schema: "yktv", 
                 entity: "v:milist"
               }, 
               ui_type: {
@@ -2042,7 +2042,7 @@
                 tp: "album"
               }, 
               target: {
-                schema: "mitv", 
+                schema: "yktv", 
                 params: {
                   android_intent: "tenvideo2://?action=1&cover_id=y4agx1fcsw25pnt&pull_from=101503#Intent;action=com.tencent.qqlivetv.open;launchFlags=0x10000000;package=com.ktcp.tvvideo;end", 
                   android_component: "com.ktcp.tvvideo", 
@@ -2078,7 +2078,7 @@
                 tp: "album"
               }, 
               target: {
-                schema: "mitv", 
+                schema: "yktv", 
                 params: {
                   android_intent: "tenvideo2://?action=17&column_id=51508&column_type=10&pull_from=101503#Intent;action=com.tencent.qqlivetv.open;launchFlags=0x10000000;package=com.ktcp.tvvideo;end", 
                   android_component: "com.ktcp.tvvideo", 
@@ -2115,7 +2115,7 @@
               }, 
               target: {
                 url: "/tv/lean/v?id=343529", 
-                schema: "mitv", 
+                schema: "yktv", 
                 params: {
                   android_intent: "intent:#Intent;action=android.intent.action.MITV_VIDEO_DETAILS;S.id=343529;end"
                 }, 
@@ -2150,7 +2150,7 @@
               }, 
               target: {
                 url: "/tv/lean/v?id=340542", 
-                schema: "mitv", 
+                schema: "yktv", 
                 params: {
                   android_intent: "intent:#Intent;action=android.intent.action.MITV_VIDEO_DETAILS;S.id=340542;end"
                 }, 
@@ -2185,7 +2185,7 @@
               }, 
               target: {
                 url: "/tv/lean/v?id=338503", 
-                schema: "mitv", 
+                schema: "yktv", 
                 params: {
                   android_intent: "intent:#Intent;action=android.intent.action.MITV_VIDEO_DETAILS;S.id=338503;end"
                 }, 
@@ -2220,7 +2220,7 @@
               }, 
               target: {
                 url: "/tv/lean/v?id=335570", 
-                schema: "mitv", 
+                schema: "yktv", 
                 params: {
                   android_intent: "intent:#Intent;action=android.intent.action.MITV_VIDEO_DETAILS;S.id=335570;end"
                 }, 
@@ -2255,7 +2255,7 @@
               }, 
               target: {
                 url: "/tv/lean/v?id=334391", 
-                schema: "mitv", 
+                schema: "yktv", 
                 params: {
                   android_intent: "intent:#Intent;action=android.intent.action.MITV_VIDEO_DETAILS;S.id=334391;end"
                 }, 
@@ -2290,7 +2290,7 @@
               }, 
               target: {
                 url: "/tv/lean/v?id=334219", 
-                schema: "mitv", 
+                schema: "yktv", 
                 params: {
                   android_intent: "intent:#Intent;action=android.intent.action.MITV_VIDEO_DETAILS;S.id=334219;end"
                 }, 
@@ -2337,7 +2337,7 @@
               }, 
               target: {
                 url: "/tv/lean/v?id=325466", 
-                schema: "mitv", 
+                schema: "yktv", 
                 params: {
                   android_intent: "intent:#Intent;action=android.intent.action.MITV_VIDEO_DETAILS;S.id=325466;end"
                 }, 
@@ -2372,7 +2372,7 @@
               }, 
               target: {
                 url: "/tv/lean/v?id=332363", 
-                schema: "mitv", 
+                schema: "yktv", 
                 params: {
                   android_intent: "intent:#Intent;action=android.intent.action.MITV_VIDEO_DETAILS;S.id=332363;end"
                 }, 
@@ -2407,7 +2407,7 @@
               }, 
               target: {
                 url: "/tv/lean/v?id=337819", 
-                schema: "mitv", 
+                schema: "yktv", 
                 params: {
                   android_intent: "intent:#Intent;action=android.intent.action.MITV_VIDEO_DETAILS;S.id=337819;end"
                 }, 
@@ -2442,7 +2442,7 @@
               }, 
               target: {
                 url: "/tv/lean/v?id=329028", 
-                schema: "mitv", 
+                schema: "yktv", 
                 params: {
                   android_intent: "intent:#Intent;action=android.intent.action.MITV_VIDEO_DETAILS;S.id=329028;end"
                 }, 
@@ -2477,7 +2477,7 @@
               }, 
               target: {
                 url: "/tv/lean/v?id=270088", 
-                schema: "mitv", 
+                schema: "yktv", 
                 params: {
                   android_intent: "intent:#Intent;action=android.intent.action.MITV_VIDEO_DETAILS;S.id=270088;end"
                 }, 
@@ -2512,7 +2512,7 @@
               }, 
               target: {
                 url: "/tv/lean/v?id=327779", 
-                schema: "mitv", 
+                schema: "yktv", 
                 params: {
                   android_intent: "intent:#Intent;action=android.intent.action.MITV_VIDEO_DETAILS;S.id=327779;end"
                 }, 
@@ -2547,7 +2547,7 @@
               }, 
               target: {
                 url: "/tv/lean/v?id=332030", 
-                schema: "mitv", 
+                schema: "yktv", 
                 params: {
                   android_intent: "intent:#Intent;action=android.intent.action.MITV_VIDEO_DETAILS;S.id=332030;end"
                 }, 
@@ -2582,7 +2582,7 @@
               }, 
               target: {
                 url: "/tv/lean/v?id=250332", 
-                schema: "mitv", 
+                schema: "yktv", 
                 params: {
                   android_intent: "intent:#Intent;action=android.intent.action.MITV_VIDEO_DETAILS;S.id=250332;end"
                 }, 
@@ -2616,7 +2616,7 @@
                 tp: "album"
               }, 
               target: {
-                schema: "mitv", 
+                schema: "yktv", 
                 params: {
                   android_intent: "tenvideo2://?action=1&cover_id=3l8287v2wtmxqdp&pull_from=101503#Intent;action=com.tencent.qqlivetv.open;launchFlags=0x10000000;package=com.ktcp.tvvideo;end", 
                   android_component: "com.ktcp.tvvideo", 
@@ -2664,7 +2664,7 @@
                 tp: "album"
               }, 
               target: {
-                schema: "mitv", 
+                schema: "yktv", 
                 params: {
                   android_intent: "tenvideo2://?action=1&cover_id=ftst3o1rq7snhcu&pull_from=101503#Intent;action=com.tencent.qqlivetv.open;launchFlags=0x10000000;package=com.ktcp.tvvideo;end", 
                   android_component: "com.ktcp.tvvideo", 
@@ -2701,7 +2701,7 @@
               }, 
               target: {
                 url: "/tv/lean/v?id=339901", 
-                schema: "mitv", 
+                schema: "yktv", 
                 params: {
                   android_intent: "intent:#Intent;action=android.intent.action.MITV_VIDEO_DETAILS;S.id=339901;end"
                 }, 
@@ -2763,7 +2763,7 @@
               }, 
               target: {
                 url: "/tv/lean/v?id=325466", 
-                schema: "mitv", 
+                schema: "yktv", 
                 params: {
                   android_intent: "intent:#Intent;action=android.intent.action.MITV_VIDEO_DETAILS;S.id=325466;end"
                 }, 
@@ -2801,7 +2801,7 @@
                 tp: "album"
               }, 
               target: {
-                schema: "mitv", 
+                schema: "yktv", 
                 params: {
                   android_intent: "tenvideo2://?action=1&cover_id=f1dfsxi495c6p9z&pull_from=101503#Intent;action=com.tencent.qqlivetv.open;launchFlags=0x10000000;package=com.ktcp.tvvideo;end", 
                   android_component: "com.ktcp.tvvideo", 
@@ -2846,7 +2846,7 @@
                 tp: "album"
               }, 
               target: {
-                schema: "mitv", 
+                schema: "yktv", 
                 params: {
                   android_intent: "tenvideo2://?action=1&cover_id=ftst3o1rq7snhcu&pull_from=101503#Intent;action=com.tencent.qqlivetv.open;launchFlags=0x10000000;package=com.ktcp.tvvideo;end", 
                   android_component: "com.ktcp.tvvideo", 
@@ -3083,7 +3083,7 @@
               }, 
               target: {
                 url: "/tv/lean/v?id=333056", 
-                schema: "mitv", 
+                schema: "yktv", 
                 params: {
                   android_intent: "intent:#Intent;action=android.intent.action.MITV_VIDEO_DETAILS;S.id=333056;end"
                 }, 
@@ -3117,7 +3117,7 @@
                 tp: "album"
               }, 
               target: {
-                schema: "mitv", 
+                schema: "yktv", 
                 params: {
                   android_intent: "tenvideo2://?action=1&cover_id=vt04yrskxposhi0&pull_from=101503#Intent;action=com.tencent.qqlivetv.open;launchFlags=0x10000000;package=com.ktcp.tvvideo;end", 
                   android_component: "com.ktcp.tvvideo", 
@@ -3154,7 +3154,7 @@
               }, 
               target: {
                 url: "/tv/lean/v?id=341211", 
-                schema: "mitv", 
+                schema: "yktv", 
                 params: {
                   android_intent: "intent:#Intent;action=android.intent.action.MITV_VIDEO_DETAILS;S.id=341211;end"
                 }, 
@@ -3201,7 +3201,7 @@
               }, 
               target: {
                 url: "/tv/lean/v?id=342077", 
-                schema: "mitv", 
+                schema: "yktv", 
                 params: {
                   android_intent: "intent:#Intent;action=android.intent.action.MITV_VIDEO_DETAILS;S.id=342077;end"
                 }, 
@@ -3237,7 +3237,7 @@
               }, 
               target: {
                 url: "/tv/lean/v?id=340552", 
-                schema: "mitv", 
+                schema: "yktv", 
                 params: {
                   android_intent: "intent:#Intent;action=android.intent.action.MITV_VIDEO_DETAILS;S.id=340552;end"
                 }, 
@@ -3273,7 +3273,7 @@
               }, 
               target: {
                 url: "/tv/lean/v?id=339901", 
-                schema: "mitv", 
+                schema: "yktv", 
                 params: {
                   android_intent: "intent:#Intent;action=android.intent.action.MITV_VIDEO_DETAILS;S.id=339901;end"
                 }, 
@@ -3309,7 +3309,7 @@
               }, 
               target: {
                 url: "/tv/lean/v?id=331789", 
-                schema: "mitv", 
+                schema: "yktv", 
                 params: {
                   android_intent: "intent:#Intent;action=android.intent.action.MITV_VIDEO_DETAILS;S.id=331789;end"
                 }, 
@@ -3345,7 +3345,7 @@
               }, 
               target: {
                 url: "/tv/lean/v?id=336145", 
-                schema: "mitv", 
+                schema: "yktv", 
                 params: {
                   android_intent: "intent:#Intent;action=android.intent.action.MITV_VIDEO_DETAILS;S.id=336145;end"
                 }, 
@@ -3380,7 +3380,7 @@
                 tp: "album"
               }, 
               target: {
-                schema: "mitv", 
+                schema: "yktv", 
                 params: {
                   android_intent: "tenvideo2://?action=1&cover_id=mva1cfks0d0utzw&pull_from=101503#Intent;action=com.tencent.qqlivetv.open;launchFlags=0x10000000;package=com.ktcp.tvvideo;end", 
                   android_component: "com.ktcp.tvvideo", 
@@ -3429,7 +3429,7 @@
               }, 
               target: {
                 url: "/tv/lean/v?id=332308", 
-                schema: "mitv", 
+                schema: "yktv", 
                 params: {
                   android_intent: "intent:#Intent;action=android.intent.action.MITV_VIDEO_DETAILS;S.id=332308;end"
                 }, 
@@ -3464,7 +3464,7 @@
               }, 
               target: {
                 url: "/tv/lean/v?id=329656", 
-                schema: "mitv", 
+                schema: "yktv", 
                 params: {
                   android_intent: "intent:#Intent;action=android.intent.action.MITV_VIDEO_DETAILS;S.id=329656;end"
                 }, 
@@ -3499,7 +3499,7 @@
               }, 
               target: {
                 url: "/tv/lean/v?id=317680", 
-                schema: "mitv", 
+                schema: "yktv", 
                 params: {
                   android_intent: "intent:#Intent;action=android.intent.action.MITV_VIDEO_DETAILS;S.id=317680;end"
                 }, 
@@ -3534,7 +3534,7 @@
               }, 
               target: {
                 url: "/tv/lean/v?id=320245", 
-                schema: "mitv", 
+                schema: "yktv", 
                 params: {
                   android_intent: "intent:#Intent;action=android.intent.action.MITV_VIDEO_DETAILS;S.id=320245;end"
                 }, 
@@ -3581,7 +3581,7 @@
               }, 
               target: {
                 url: "/tv/lean/v?id=320719", 
-                schema: "mitv", 
+                schema: "yktv", 
                 params: {
                   android_intent: "intent:#Intent;action=android.intent.action.MITV_VIDEO_DETAILS;S.id=320719;end"
                 }, 
@@ -3617,7 +3617,7 @@
               }, 
               target: {
                 url: "/tv/lean/v?id=326711", 
-                schema: "mitv", 
+                schema: "yktv", 
                 params: {
                   android_intent: "intent:#Intent;action=android.intent.action.MITV_VIDEO_DETAILS;S.id=326711;end"
                 }, 
@@ -3653,7 +3653,7 @@
               }, 
               target: {
                 url: "/tv/lean/v?id=316739", 
-                schema: "mitv", 
+                schema: "yktv", 
                 params: {
                   android_intent: "intent:#Intent;action=android.intent.action.MITV_VIDEO_DETAILS;S.id=316739;end"
                 }, 
@@ -3689,7 +3689,7 @@
               }, 
               target: {
                 url: "/tv/lean/v?id=330846", 
-                schema: "mitv", 
+                schema: "yktv", 
                 params: {
                   android_intent: "intent:#Intent;action=android.intent.action.MITV_VIDEO_DETAILS;S.id=330846;end"
                 }, 
@@ -3725,7 +3725,7 @@
               }, 
               target: {
                 url: "/tv/lean/v?id=326719", 
-                schema: "mitv", 
+                schema: "yktv", 
                 params: {
                   android_intent: "intent:#Intent;action=android.intent.action.MITV_VIDEO_DETAILS;S.id=326719;end"
                 }, 
@@ -3760,7 +3760,7 @@
                 tp: "album"
               }, 
               target: {
-                schema: "mitv", 
+                schema: "yktv", 
                 params: {
                   android_intent: "#Intent;action=com.hunantv.market;S.video_type=0;S.cmd_ex=show_video_detail;S.video_id=c9a31c1d9a7e5a1647ead4e2320e885d;S.video_ui_style=0;end", 
                   android_component: "com.hunantv.market"
@@ -3833,7 +3833,7 @@
               }, 
               target: {
                 url: "/tv/lean/v?id=235983", 
-                schema: "mitv", 
+                schema: "yktv", 
                 params: {
                   android_intent: "intent:#Intent;action=android.intent.action.MITV_VIDEO_DETAILS;S.id=235983;end"
                 }, 
@@ -3873,7 +3873,7 @@
               }, 
               target: {
                 url: "/tv/lean/v?id=182848", 
-                schema: "mitv", 
+                schema: "yktv", 
                 params: {
                   android_intent: "intent:#Intent;action=android.intent.action.MITV_VIDEO_DETAILS;S.id=182848;end"
                 }, 
@@ -4064,7 +4064,7 @@
               }, 
               target: {
                 url: "/tv/lean/v/filter?id=510&pageno=0&title=%E5%85%A8%E9%83%A8%E7%94%B5%E5%BD%B1", 
-                schema: "mitv", 
+                schema: "yktv", 
                 entity: "channel"
               }, 
               ui_type: {
@@ -4106,7 +4106,7 @@
               }, 
               target: {
                 url: "/tv/lean/v?id=179665", 
-                schema: "mitv", 
+                schema: "yktv", 
                 params: {
                   android_intent: "intent:#Intent;action=android.intent.action.MITV_VIDEO_DETAILS;S.id=179665;end"
                 }, 
@@ -4146,7 +4146,7 @@
               }, 
               target: {
                 url: "/tv/lean/v?id=175852", 
-                schema: "mitv", 
+                schema: "yktv", 
                 params: {
                   android_intent: "intent:#Intent;action=android.intent.action.MITV_VIDEO_DETAILS;S.id=175852;end"
                 }, 
@@ -4181,7 +4181,7 @@
               }, 
               target: {
                 url: "/tv/lean/v?id=321351", 
-                schema: "mitv", 
+                schema: "yktv", 
                 params: {
                   android_intent: "intent:#Intent;action=android.intent.action.MITV_VIDEO_DETAILS;S.id=321351;end"
                 }, 
@@ -4216,7 +4216,7 @@
               }, 
               target: {
                 url: "/tv/lean/v?id=233925", 
-                schema: "mitv", 
+                schema: "yktv", 
                 params: {
                   android_intent: "intent:#Intent;action=android.intent.action.MITV_VIDEO_DETAILS;S.id=233925;end"
                 }, 
@@ -4263,7 +4263,7 @@
               }, 
               target: {
                 url: "/tv/lean/v?id=319565", 
-                schema: "mitv", 
+                schema: "yktv", 
                 params: {
                   android_intent: "intent:#Intent;action=android.intent.action.MITV_VIDEO_DETAILS;S.id=319565;end"
                 }, 
@@ -4299,7 +4299,7 @@
               }, 
               target: {
                 url: "/tv/lean/v?id=179053", 
-                schema: "mitv", 
+                schema: "yktv", 
                 params: {
                   android_intent: "intent:#Intent;action=android.intent.action.MITV_VIDEO_DETAILS;S.id=179053;end"
                 }, 
@@ -4335,7 +4335,7 @@
               }, 
               target: {
                 url: "/tv/lean/v?id=182209", 
-                schema: "mitv", 
+                schema: "yktv", 
                 params: {
                   android_intent: "intent:#Intent;action=android.intent.action.MITV_VIDEO_DETAILS;S.id=182209;end"
                 }, 
@@ -4371,7 +4371,7 @@
               }, 
               target: {
                 url: "/tv/lean/v?id=235108", 
-                schema: "mitv", 
+                schema: "yktv", 
                 params: {
                   android_intent: "intent:#Intent;action=android.intent.action.MITV_VIDEO_DETAILS;S.id=235108;end"
                 }, 
@@ -4407,7 +4407,7 @@
               }, 
               target: {
                 url: "/tv/lean/v?id=339096", 
-                schema: "mitv", 
+                schema: "yktv", 
                 params: {
                   android_intent: "intent:#Intent;action=android.intent.action.MITV_VIDEO_DETAILS;S.id=339096;end"
                 }, 
@@ -4484,7 +4484,7 @@
               }, 
               target: {
                 url: "/tv/lean/v?id=318750", 
-                schema: "mitv", 
+                schema: "yktv", 
                 params: {
                   android_intent: "intent:#Intent;action=android.intent.action.MITV_VIDEO_DETAILS;S.id=318750;end"
                 }, 
@@ -4524,7 +4524,7 @@
               }, 
               target: {
                 url: "/tv/lean/v?id=234148", 
-                schema: "mitv", 
+                schema: "yktv", 
                 params: {
                   android_intent: "intent:#Intent;action=android.intent.action.MITV_VIDEO_DETAILS;S.id=234148;end"
                 }, 
@@ -4559,7 +4559,7 @@
               }, 
               target: {
                 url: "/tv/lean/v?id=320787", 
-                schema: "mitv", 
+                schema: "yktv", 
                 params: {
                   android_intent: "intent:#Intent;action=android.intent.action.MITV_VIDEO_DETAILS;S.id=320787;end"
                 }, 
@@ -4611,7 +4611,7 @@
               }, 
               target: {
                 url: "/tv/lean/v?id=331407", 
-                schema: "mitv", 
+                schema: "yktv", 
                 params: {
                   android_intent: "intent:#Intent;action=android.intent.action.MITV_VIDEO_DETAILS;S.id=331407;end"
                 }, 
@@ -4647,7 +4647,7 @@
               }, 
               target: {
                 url: "/tv/lean/v?id=158472", 
-                schema: "mitv", 
+                schema: "yktv", 
                 params: {
                   android_intent: "intent:#Intent;action=android.intent.action.MITV_VIDEO_DETAILS;S.id=158472;end"
                 }, 
@@ -4683,7 +4683,7 @@
               }, 
               target: {
                 url: "/tv/lean/v?id=319448", 
-                schema: "mitv", 
+                schema: "yktv", 
                 params: {
                   android_intent: "intent:#Intent;action=android.intent.action.MITV_VIDEO_DETAILS;S.id=319448;end"
                 }, 
@@ -4719,7 +4719,7 @@
               }, 
               target: {
                 url: "/tv/lean/v?id=336418", 
-                schema: "mitv", 
+                schema: "yktv", 
                 params: {
                   android_intent: "intent:#Intent;action=android.intent.action.MITV_VIDEO_DETAILS;S.id=336418;end"
                 }, 
@@ -4755,7 +4755,7 @@
               }, 
               target: {
                 url: "/tv/lean/v?id=339399", 
-                schema: "mitv", 
+                schema: "yktv", 
                 params: {
                   android_intent: "intent:#Intent;action=android.intent.action.MITV_VIDEO_DETAILS;S.id=339399;end"
                 }, 
@@ -4791,7 +4791,7 @@
               }, 
               target: {
                 url: "/tv/lean/v/filter?id=869&pageno=0&title=%E6%9C%80%E7%83%AD%E9%87%8D%E7%A3%85%E9%A2%84%E5%91%8A", 
-                schema: "mitv", 
+                schema: "yktv", 
                 entity: "channel"
               }, 
               title: "最热重磅预告", 
@@ -4855,7 +4855,7 @@
               }, 
               target: {
                 url: "/tv/lean/v?id=322462", 
-                schema: "mitv", 
+                schema: "yktv", 
                 params: {
                   android_intent: "intent:#Intent;action=android.intent.action.MITV_VIDEO_DETAILS;S.id=322462;end"
                 }, 
@@ -4890,7 +4890,7 @@
               }, 
               target: {
                 url: "/tv/lean/v?id=315784", 
-                schema: "mitv", 
+                schema: "yktv", 
                 params: {
                   android_intent: "intent:#Intent;action=android.intent.action.MITV_VIDEO_DETAILS;S.id=315784;end"
                 }, 
@@ -4925,7 +4925,7 @@
               }, 
               target: {
                 url: "/tv/lean/v?id=331954", 
-                schema: "mitv", 
+                schema: "yktv", 
                 params: {
                   android_intent: "intent:#Intent;action=android.intent.action.MITV_VIDEO_DETAILS;S.id=331954;end"
                 }, 
@@ -5155,7 +5155,7 @@
                 tp: "album"
               }, 
               target: {
-                schema: "mitv", 
+                schema: "yktv", 
                 params: {
                   android_intent: "tenvideo2://?action=1&cover_id=y4agx1fcsw25pnt&pull_from=101503#Intent;action=com.tencent.qqlivetv.open;launchFlags=0x10000000;package=com.ktcp.tvvideo;end", 
                   android_component: "com.ktcp.tvvideo", 
@@ -5192,7 +5192,7 @@
               }, 
               target: {
                 url: "/tv/lean/v?id=343529", 
-                schema: "mitv", 
+                schema: "yktv", 
                 params: {
                   android_intent: "intent:#Intent;action=android.intent.action.MITV_VIDEO_DETAILS;S.id=343529;end"
                 }, 
@@ -5227,7 +5227,7 @@
               }, 
               target: {
                 url: "/tv/lean/v?id=338319", 
-                schema: "mitv", 
+                schema: "yktv", 
                 params: {
                   android_intent: "intent:#Intent;action=android.intent.action.MITV_VIDEO_DETAILS;S.id=338319;end"
                 }, 
@@ -5274,7 +5274,7 @@
               }, 
               target: {
                 url: "/tv/lean/v?id=340542", 
-                schema: "mitv", 
+                schema: "yktv", 
                 params: {
                   android_intent: "intent:#Intent;action=android.intent.action.MITV_VIDEO_DETAILS;S.id=340542;end"
                 }, 
@@ -5309,7 +5309,7 @@
               }, 
               target: {
                 url: "/tv/lean/v?id=338503", 
-                schema: "mitv", 
+                schema: "yktv", 
                 params: {
                   android_intent: "intent:#Intent;action=android.intent.action.MITV_VIDEO_DETAILS;S.id=338503;end"
                 }, 
@@ -5344,7 +5344,7 @@
               }, 
               target: {
                 url: "/tv/lean/v?id=335570", 
-                schema: "mitv", 
+                schema: "yktv", 
                 params: {
                   android_intent: "intent:#Intent;action=android.intent.action.MITV_VIDEO_DETAILS;S.id=335570;end"
                 }, 
@@ -5379,7 +5379,7 @@
               }, 
               target: {
                 url: "/tv/lean/v?id=334391", 
-                schema: "mitv", 
+                schema: "yktv", 
                 params: {
                   android_intent: "intent:#Intent;action=android.intent.action.MITV_VIDEO_DETAILS;S.id=334391;end"
                 }, 
@@ -5414,7 +5414,7 @@
               }, 
               target: {
                 url: "/tv/lean/v?id=334219", 
-                schema: "mitv", 
+                schema: "yktv", 
                 params: {
                   android_intent: "intent:#Intent;action=android.intent.action.MITV_VIDEO_DETAILS;S.id=334219;end"
                 }, 
@@ -5448,7 +5448,7 @@
                 tp: "album"
               }, 
               target: {
-                schema: "mitv", 
+                schema: "yktv", 
                 params: {
                   android_intent: "tenvideo2://?action=17&column_id=50885&column_type=10&pull_from=101503#Intent;action=com.tencent.qqlivetv.open;launchFlags=0x10000000;package=com.ktcp.tvvideo;end", 
                   android_component: "com.ktcp.tvvideo", 
@@ -5495,7 +5495,7 @@
                 tp: "album"
               }, 
               target: {
-                schema: "mitv", 
+                schema: "yktv", 
                 params: {
                   android_intent: "tenvideo2://?action=17&column_id=49768&column_type=10&pull_from=101503#Intent;action=com.tencent.qqlivetv.open;launchFlags=0x10000000;package=com.ktcp.tvvideo;end", 
                   android_component: "com.ktcp.tvvideo", 
@@ -5532,7 +5532,7 @@
               }, 
               target: {
                 url: "/tv/lean/v?id=320704", 
-                schema: "mitv", 
+                schema: "yktv", 
                 params: {
                   android_intent: "intent:#Intent;action=android.intent.action.MITV_VIDEO_DETAILS;S.id=320704;end"
                 }, 
@@ -5566,7 +5566,7 @@
                 tp: "album"
               }, 
               target: {
-                schema: "mitv", 
+                schema: "yktv", 
                 params: {
                   android_intent: "tenvideo2://?action=17&column_id=50177&column_type=10&pull_from=101503#Intent;action=com.tencent.qqlivetv.open;launchFlags=0x10000000;package=com.ktcp.tvvideo;end", 
                   android_component: "com.ktcp.tvvideo", 
@@ -5603,7 +5603,7 @@
               }, 
               target: {
                 url: "/tv/lean/v?id=320339", 
-                schema: "mitv", 
+                schema: "yktv", 
                 params: {
                   android_intent: "intent:#Intent;action=android.intent.action.MITV_VIDEO_DETAILS;S.id=320339;end"
                 }, 
@@ -5638,7 +5638,7 @@
               }, 
               target: {
                 url: "/tv/lean/v?id=329379", 
-                schema: "mitv", 
+                schema: "yktv", 
                 params: {
                   android_intent: "intent:#Intent;action=android.intent.action.MITV_VIDEO_DETAILS;S.id=329379;end"
                 }, 
@@ -5673,7 +5673,7 @@
               }, 
               target: {
                 url: "/tv/lean/v?id=317548", 
-                schema: "mitv", 
+                schema: "yktv", 
                 params: {
                   android_intent: "intent:#Intent;action=android.intent.action.MITV_VIDEO_DETAILS;S.id=317548;end"
                 }, 
@@ -5720,7 +5720,7 @@
               }, 
               target: {
                 url: "/tv/lean/v?id=77745", 
-                schema: "mitv", 
+                schema: "yktv", 
                 params: {
                   android_intent: "intent:#Intent;action=android.intent.action.MITV_VIDEO_DETAILS;S.id=77745;end"
                 }, 
@@ -5755,7 +5755,7 @@
               }, 
               target: {
                 url: "/tv/lean/v?id=79045", 
-                schema: "mitv", 
+                schema: "yktv", 
                 params: {
                   android_intent: "intent:#Intent;action=android.intent.action.MITV_VIDEO_DETAILS;S.id=79045;end"
                 }, 
@@ -5790,7 +5790,7 @@
               }, 
               target: {
                 url: "/tv/lean/v?id=78983", 
-                schema: "mitv", 
+                schema: "yktv", 
                 params: {
                   android_intent: "intent:#Intent;action=android.intent.action.MITV_VIDEO_DETAILS;S.id=78983;end"
                 }, 
@@ -5825,7 +5825,7 @@
               }, 
               target: {
                 url: "/tv/lean/v?id=77687", 
-                schema: "mitv", 
+                schema: "yktv", 
                 params: {
                   android_intent: "intent:#Intent;action=android.intent.action.MITV_VIDEO_DETAILS;S.id=77687;end"
                 }, 
@@ -5886,7 +5886,7 @@
               }, 
               target: {
                 url: "/tv/lean/v?id=339735", 
-                schema: "mitv", 
+                schema: "yktv", 
                 params: {
                   android_intent: "intent:#Intent;action=android.intent.action.MITV_VIDEO_DETAILS;S.id=339735;end"
                 }, 
@@ -5926,7 +5926,7 @@
               }, 
               target: {
                 url: "/tv/lean/v?id=336381", 
-                schema: "mitv", 
+                schema: "yktv", 
                 params: {
                   android_intent: "intent:#Intent;action=android.intent.action.MITV_VIDEO_DETAILS;S.id=336381;end"
                 }, 
@@ -5966,7 +5966,7 @@
               }, 
               target: {
                 url: "/tv/lean/v?id=173235", 
-                schema: "mitv", 
+                schema: "yktv", 
                 params: {
                   android_intent: "intent:#Intent;action=android.intent.action.MITV_VIDEO_DETAILS;S.id=173235;end"
                 }, 
@@ -6155,7 +6155,7 @@
               id: "FI/788", 
               target: {
                 url: "/tv/lean/v/filter?id=788&pageno=0&title=%E5%B0%91%E5%84%BF%E5%84%BF%E7%AB%A5%E5%BD%B1%E9%99%A2", 
-                schema: "mitv", 
+                schema: "yktv", 
                 entity: "channel"
               }
             }, 
@@ -6206,7 +6206,7 @@
               }, 
               target: {
                 url: "/tv/lean/v?id=192337", 
-                schema: "mitv", 
+                schema: "yktv", 
                 params: {
                   android_intent: "intent:#Intent;action=android.intent.action.MITV_VIDEO_DETAILS;S.id=192337;end"
                 }, 
@@ -6241,7 +6241,7 @@
               }, 
               target: {
                 url: "/tv/lean/v?id=80439", 
-                schema: "mitv", 
+                schema: "yktv", 
                 params: {
                   android_intent: "intent:#Intent;action=android.intent.action.MITV_VIDEO_DETAILS;S.id=80439;end"
                 }, 
@@ -6286,7 +6286,7 @@
                   }, 
                   target: {
                     url: "/tv/lean/v?id=125999", 
-                    schema: "mitv", 
+                    schema: "yktv", 
                     params: {
                       android_intent: "intent:#Intent;action=android.intent.action.MITV_VIDEO_DETAILS;S.id=125999;end"
                     }, 
@@ -6322,7 +6322,7 @@
                   }, 
                   target: {
                     url: "/tv/lean/v?id=72743", 
-                    schema: "mitv", 
+                    schema: "yktv", 
                     params: {
                       android_intent: "intent:#Intent;action=android.intent.action.MITV_VIDEO_DETAILS;S.id=72743;end"
                     }, 
@@ -6358,7 +6358,7 @@
                   }, 
                   target: {
                     url: "/tv/lean/v?id=160572", 
-                    schema: "mitv", 
+                    schema: "yktv", 
                     params: {
                       android_intent: "intent:#Intent;action=android.intent.action.MITV_VIDEO_DETAILS;S.id=160572;end"
                     }, 
@@ -6394,7 +6394,7 @@
                   }, 
                   target: {
                     url: "/tv/lean/v?id=73294", 
-                    schema: "mitv", 
+                    schema: "yktv", 
                     params: {
                       android_intent: "intent:#Intent;action=android.intent.action.MITV_VIDEO_DETAILS;S.id=73294;end"
                     }, 
@@ -6430,7 +6430,7 @@
                   }, 
                   target: {
                     url: "/tv/lean/v?id=93134", 
-                    schema: "mitv", 
+                    schema: "yktv", 
                     params: {
                       android_intent: "intent:#Intent;action=android.intent.action.MITV_VIDEO_DETAILS;S.id=93134;end"
                     }, 
@@ -6466,7 +6466,7 @@
                   }, 
                   target: {
                     url: "/tv/lean/v?id=73093", 
-                    schema: "mitv", 
+                    schema: "yktv", 
                     params: {
                       android_intent: "intent:#Intent;action=android.intent.action.MITV_VIDEO_DETAILS;S.id=73093;end"
                     }, 
@@ -6502,7 +6502,7 @@
                   }, 
                   target: {
                     url: "/tv/lean/v?id=339481", 
-                    schema: "mitv", 
+                    schema: "yktv", 
                     params: {
                       android_intent: "intent:#Intent;action=android.intent.action.MITV_VIDEO_DETAILS;S.id=339481;end"
                     }, 
@@ -6538,7 +6538,7 @@
                   }, 
                   target: {
                     url: "/tv/lean/v?id=76876", 
-                    schema: "mitv", 
+                    schema: "yktv", 
                     params: {
                       android_intent: "intent:#Intent;action=android.intent.action.MITV_VIDEO_DETAILS;S.id=76876;end"
                     }, 
@@ -6590,7 +6590,7 @@
               }, 
               target: {
                 url: "/tv/lean/v?id=125999", 
-                schema: "mitv", 
+                schema: "yktv", 
                 params: {
                   android_intent: "intent:#Intent;action=android.intent.action.MITV_VIDEO_DETAILS;S.id=125999;end"
                 }, 
@@ -6626,7 +6626,7 @@
               }, 
               target: {
                 url: "/tv/lean/v?id=72743", 
-                schema: "mitv", 
+                schema: "yktv", 
                 params: {
                   android_intent: "intent:#Intent;action=android.intent.action.MITV_VIDEO_DETAILS;S.id=72743;end"
                 }, 
@@ -6662,7 +6662,7 @@
               }, 
               target: {
                 url: "/tv/lean/v?id=160572", 
-                schema: "mitv", 
+                schema: "yktv", 
                 params: {
                   android_intent: "intent:#Intent;action=android.intent.action.MITV_VIDEO_DETAILS;S.id=160572;end"
                 }, 
@@ -6698,7 +6698,7 @@
               }, 
               target: {
                 url: "/tv/lean/v?id=73294", 
-                schema: "mitv", 
+                schema: "yktv", 
                 params: {
                   android_intent: "intent:#Intent;action=android.intent.action.MITV_VIDEO_DETAILS;S.id=73294;end"
                 }, 
@@ -6734,7 +6734,7 @@
               }, 
               target: {
                 url: "/tv/lean/v?id=93134", 
-                schema: "mitv", 
+                schema: "yktv", 
                 params: {
                   android_intent: "intent:#Intent;action=android.intent.action.MITV_VIDEO_DETAILS;S.id=93134;end"
                 }, 
@@ -6770,7 +6770,7 @@
               }, 
               target: {
                 url: "/tv/lean/v?id=73093", 
-                schema: "mitv", 
+                schema: "yktv", 
                 params: {
                   android_intent: "intent:#Intent;action=android.intent.action.MITV_VIDEO_DETAILS;S.id=73093;end"
                 }, 
@@ -6806,7 +6806,7 @@
               }, 
               target: {
                 url: "/tv/lean/v?id=339481", 
-                schema: "mitv", 
+                schema: "yktv", 
                 params: {
                   android_intent: "intent:#Intent;action=android.intent.action.MITV_VIDEO_DETAILS;S.id=339481;end"
                 }, 
@@ -6842,7 +6842,7 @@
               }, 
               target: {
                 url: "/tv/lean/v?id=76876", 
-                schema: "mitv", 
+                schema: "yktv", 
                 params: {
                   android_intent: "intent:#Intent;action=android.intent.action.MITV_VIDEO_DETAILS;S.id=76876;end"
                 }, 
@@ -6890,7 +6890,7 @@
               }, 
               target: {
                 url: "/tv/lean/v?id=340270", 
-                schema: "mitv", 
+                schema: "yktv", 
                 params: {
                   android_intent: "intent:#Intent;action=android.intent.action.MITV_VIDEO_DETAILS;S.id=340270;end"
                 }, 
@@ -6925,7 +6925,7 @@
               }, 
               target: {
                 url: "/tv/lean/v?id=340269", 
-                schema: "mitv", 
+                schema: "yktv", 
                 params: {
                   android_intent: "intent:#Intent;action=android.intent.action.MITV_VIDEO_DETAILS;S.id=340269;end"
                 }, 
@@ -6970,7 +6970,7 @@
                   }, 
                   target: {
                     url: "/tv/lean/v?id=341573", 
-                    schema: "mitv", 
+                    schema: "yktv", 
                     params: {
                       android_intent: "intent:#Intent;action=android.intent.action.MITV_VIDEO_DETAILS;S.id=341573;end"
                     }, 
@@ -7006,7 +7006,7 @@
                   }, 
                   target: {
                     url: "/tv/lean/v?id=336381", 
-                    schema: "mitv", 
+                    schema: "yktv", 
                     params: {
                       android_intent: "intent:#Intent;action=android.intent.action.MITV_VIDEO_DETAILS;S.id=336381;end"
                     }, 
@@ -7042,7 +7042,7 @@
                   }, 
                   target: {
                     url: "/tv/lean/v?id=341711", 
-                    schema: "mitv", 
+                    schema: "yktv", 
                     params: {
                       android_intent: "intent:#Intent;action=android.intent.action.MITV_VIDEO_DETAILS;S.id=341711;end"
                     }, 
@@ -7078,7 +7078,7 @@
                   }, 
                   target: {
                     url: "/tv/lean/v?id=329503", 
-                    schema: "mitv", 
+                    schema: "yktv", 
                     params: {
                       android_intent: "intent:#Intent;action=android.intent.action.MITV_VIDEO_DETAILS;S.id=329503;end"
                     }, 
@@ -7114,7 +7114,7 @@
                   }, 
                   target: {
                     url: "/tv/lean/v?id=340414", 
-                    schema: "mitv", 
+                    schema: "yktv", 
                     params: {
                       android_intent: "intent:#Intent;action=android.intent.action.MITV_VIDEO_DETAILS;S.id=340414;end"
                     }, 
@@ -7150,7 +7150,7 @@
                   }, 
                   target: {
                     url: "/tv/lean/v?id=340926", 
-                    schema: "mitv", 
+                    schema: "yktv", 
                     params: {
                       android_intent: "intent:#Intent;action=android.intent.action.MITV_VIDEO_DETAILS;S.id=340926;end"
                     }, 
@@ -7185,7 +7185,7 @@
                     tp: "album"
                   }, 
                   target: {
-                    schema: "mitv", 
+                    schema: "yktv", 
                     params: {
                       android_intent: "tenvideo2://?action=1&cover_id=5ke9onw8nltjnn8&pull_from=101503#Intent;action=com.tencent.qqlivetv.open;launchFlags=0x10000000;package=com.ktcp.tvvideo;end", 
                       android_component: "com.ktcp.tvvideo", 
@@ -7223,7 +7223,7 @@
                   }, 
                   target: {
                     url: "/tv/lean/v?id=341323", 
-                    schema: "mitv", 
+                    schema: "yktv", 
                     params: {
                       android_intent: "intent:#Intent;action=android.intent.action.MITV_VIDEO_DETAILS;S.id=341323;end"
                     }, 
@@ -7275,7 +7275,7 @@
               }, 
               target: {
                 url: "/tv/lean/v?id=341573", 
-                schema: "mitv", 
+                schema: "yktv", 
                 params: {
                   android_intent: "intent:#Intent;action=android.intent.action.MITV_VIDEO_DETAILS;S.id=341573;end"
                 }, 
@@ -7311,7 +7311,7 @@
               }, 
               target: {
                 url: "/tv/lean/v?id=336381", 
-                schema: "mitv", 
+                schema: "yktv", 
                 params: {
                   android_intent: "intent:#Intent;action=android.intent.action.MITV_VIDEO_DETAILS;S.id=336381;end"
                 }, 
@@ -7347,7 +7347,7 @@
               }, 
               target: {
                 url: "/tv/lean/v?id=341711", 
-                schema: "mitv", 
+                schema: "yktv", 
                 params: {
                   android_intent: "intent:#Intent;action=android.intent.action.MITV_VIDEO_DETAILS;S.id=341711;end"
                 }, 
@@ -7383,7 +7383,7 @@
               }, 
               target: {
                 url: "/tv/lean/v?id=329503", 
-                schema: "mitv", 
+                schema: "yktv", 
                 params: {
                   android_intent: "intent:#Intent;action=android.intent.action.MITV_VIDEO_DETAILS;S.id=329503;end"
                 }, 
@@ -7419,7 +7419,7 @@
               }, 
               target: {
                 url: "/tv/lean/v?id=340414", 
-                schema: "mitv", 
+                schema: "yktv", 
                 params: {
                   android_intent: "intent:#Intent;action=android.intent.action.MITV_VIDEO_DETAILS;S.id=340414;end"
                 }, 
@@ -7455,7 +7455,7 @@
               }, 
               target: {
                 url: "/tv/lean/v?id=340926", 
-                schema: "mitv", 
+                schema: "yktv", 
                 params: {
                   android_intent: "intent:#Intent;action=android.intent.action.MITV_VIDEO_DETAILS;S.id=340926;end"
                 }, 
@@ -7490,7 +7490,7 @@
                 tp: "album"
               }, 
               target: {
-                schema: "mitv", 
+                schema: "yktv", 
                 params: {
                   android_intent: "tenvideo2://?action=1&cover_id=5ke9onw8nltjnn8&pull_from=101503#Intent;action=com.tencent.qqlivetv.open;launchFlags=0x10000000;package=com.ktcp.tvvideo;end", 
                   android_component: "com.ktcp.tvvideo", 
@@ -7528,7 +7528,7 @@
               }, 
               target: {
                 url: "/tv/lean/v?id=341323", 
-                schema: "mitv", 
+                schema: "yktv", 
                 params: {
                   android_intent: "intent:#Intent;action=android.intent.action.MITV_VIDEO_DETAILS;S.id=341323;end"
                 }, 
@@ -7602,7 +7602,7 @@
               }, 
               sub_title: "含爱奇艺VIP全平台特权", 
               target: {
-                schema: "mitv", 
+                schema: "yktv", 
                 params: {
                   android_intent: "intent:#Intent;action=android.intent.action.MITV_HOME_VIDEO_BUY;S.product_code=com.gitv.iqiyi.vip;S.bg_image=http://image.cdn.pandora.xiaomi.com/mitv/10007/1/6d1b7d2db4834645f07cb13286485aae.jpg;end"
                 }, 
@@ -7617,7 +7617,7 @@
               }, 
               target: {
                 url: "/tv/lean/v?id=340657", 
-                schema: "mitv", 
+                schema: "yktv", 
                 params: {
                   android_intent: "intent:#Intent;action=android.intent.action.MITV_VIDEO_DETAILS;S.id=340657;end"
                 }, 
@@ -7652,7 +7652,7 @@
               }, 
               target: {
                 url: "/tv/lean/v?id=158934", 
-                schema: "mitv", 
+                schema: "yktv", 
                 params: {
                   android_intent: "intent:#Intent;action=android.intent.action.MITV_VIDEO_DETAILS;S.id=158934;end"
                 }, 
@@ -7776,7 +7776,7 @@
               id: "FI/868", 
               target: {
                 url: "/tv/lean/v/filter?id=868&pageno=0&title=%E7%94%B5%E5%BD%B1%E7%8B%AC%E6%92%AD%E5%89%A7%E5%9C%BA", 
-                schema: "mitv", 
+                schema: "yktv", 
                 entity: "channel"
               }
             }, 
@@ -7807,7 +7807,7 @@
               id: "FI/799", 
               target: {
                 url: "/tv/lean/v/filter?id=799&pageno=0&title=%E7%BA%AA%E5%BD%95%E7%89%87%E5%85%A8%E9%83%A8", 
-                schema: "mitv", 
+                schema: "yktv", 
                 entity: "channel"
               }
             }
@@ -7829,7 +7829,7 @@
               }, 
               target: {
                 url: "/tv/lean/v?id=332688", 
-                schema: "mitv", 
+                schema: "yktv", 
                 params: {
                   android_intent: "intent:#Intent;action=android.intent.action.MITV_VIDEO_DETAILS;S.id=332688;end"
                 }, 
@@ -7869,7 +7869,7 @@
               }, 
               target: {
                 url: "/tv/lean/v?id=331635", 
-                schema: "mitv", 
+                schema: "yktv", 
                 params: {
                   android_intent: "intent:#Intent;action=android.intent.action.MITV_VIDEO_DETAILS;S.id=331635;end"
                 }, 
@@ -7904,7 +7904,7 @@
               }, 
               target: {
                 url: "/tv/lean/v?id=335319", 
-                schema: "mitv", 
+                schema: "yktv", 
                 params: {
                   android_intent: "intent:#Intent;action=android.intent.action.MITV_VIDEO_DETAILS;S.id=335319;end"
                 }, 
@@ -7939,7 +7939,7 @@
               }, 
               target: {
                 url: "/tv/lean/v?id=326959", 
-                schema: "mitv", 
+                schema: "yktv", 
                 params: {
                   android_intent: "intent:#Intent;action=android.intent.action.MITV_VIDEO_DETAILS;S.id=326959;end"
                 }, 
@@ -7986,7 +7986,7 @@
               }, 
               target: {
                 url: "/tv/lean/v?id=328882", 
-                schema: "mitv", 
+                schema: "yktv", 
                 params: {
                   android_intent: "intent:#Intent;action=android.intent.action.MITV_VIDEO_DETAILS;S.id=328882;end"
                 }, 
@@ -8022,7 +8022,7 @@
               }, 
               target: {
                 url: "/tv/lean/v?id=333432", 
-                schema: "mitv", 
+                schema: "yktv", 
                 params: {
                   android_intent: "intent:#Intent;action=android.intent.action.MITV_VIDEO_DETAILS;S.id=333432;end"
                 }, 
@@ -8058,7 +8058,7 @@
               }, 
               target: {
                 url: "/tv/lean/v?id=321006", 
-                schema: "mitv", 
+                schema: "yktv", 
                 params: {
                   android_intent: "intent:#Intent;action=android.intent.action.MITV_VIDEO_DETAILS;S.id=321006;end"
                 }, 
@@ -8094,7 +8094,7 @@
               }, 
               target: {
                 url: "/tv/lean/v?id=328400", 
-                schema: "mitv", 
+                schema: "yktv", 
                 params: {
                   android_intent: "intent:#Intent;action=android.intent.action.MITV_VIDEO_DETAILS;S.id=328400;end"
                 }, 
@@ -8130,7 +8130,7 @@
               }, 
               target: {
                 url: "/tv/lean/v?id=325469", 
-                schema: "mitv", 
+                schema: "yktv", 
                 params: {
                   android_intent: "intent:#Intent;action=android.intent.action.MITV_VIDEO_DETAILS;S.id=325469;end"
                 }, 
@@ -8166,7 +8166,7 @@
               }, 
               target: {
                 url: "/tv/lean/v/filter?id=578&pageno=0&title=%E5%85%A8%E9%83%A8%E9%99%A2%E7%BA%BF%E7%94%B5%E5%BD%B1", 
-                schema: "mitv", 
+                schema: "yktv", 
                 entity: "channel"
               }, 
               title: "全部院线电影", 
@@ -8209,7 +8209,7 @@
               }, 
               target: {
                 url: "/tv/lean/v?id=310098", 
-                schema: "mitv", 
+                schema: "yktv", 
                 params: {
                   android_intent: "intent:#Intent;action=android.intent.action.MITV_VIDEO_DETAILS;S.id=310098;end"
                 }, 
@@ -8244,7 +8244,7 @@
               }, 
               target: {
                 url: "/tv/lean/v?id=244890", 
-                schema: "mitv", 
+                schema: "yktv", 
                 params: {
                   android_intent: "intent:#Intent;action=android.intent.action.MITV_VIDEO_DETAILS;S.id=244890;end"
                 }, 
@@ -8284,7 +8284,7 @@
               }, 
               target: {
                 url: "/tv/lean/v?id=235983", 
-                schema: "mitv", 
+                schema: "yktv", 
                 params: {
                   android_intent: "intent:#Intent;action=android.intent.action.MITV_VIDEO_DETAILS;S.id=235983;end"
                 }, 
@@ -8336,7 +8336,7 @@
               }, 
               target: {
                 url: "/tv/lean/v?id=319113", 
-                schema: "mitv", 
+                schema: "yktv", 
                 params: {
                   android_intent: "intent:#Intent;action=android.intent.action.MITV_VIDEO_DETAILS;S.id=319113;end"
                 }, 
@@ -8372,7 +8372,7 @@
               }, 
               target: {
                 url: "/tv/lean/v?id=320422", 
-                schema: "mitv", 
+                schema: "yktv", 
                 params: {
                   android_intent: "intent:#Intent;action=android.intent.action.MITV_VIDEO_DETAILS;S.id=320422;end"
                 }, 
@@ -8408,7 +8408,7 @@
               }, 
               target: {
                 url: "/tv/lean/v?id=191822", 
-                schema: "mitv", 
+                schema: "yktv", 
                 params: {
                   android_intent: "intent:#Intent;action=android.intent.action.MITV_VIDEO_DETAILS;S.id=191822;end"
                 }, 
@@ -8444,7 +8444,7 @@
               }, 
               target: {
                 url: "/tv/lean/v?id=183224", 
-                schema: "mitv", 
+                schema: "yktv", 
                 params: {
                   android_intent: "intent:#Intent;action=android.intent.action.MITV_VIDEO_DETAILS;S.id=183224;end"
                 }, 
@@ -8480,7 +8480,7 @@
               }, 
               target: {
                 url: "/tv/lean/v?id=270501", 
-                schema: "mitv", 
+                schema: "yktv", 
                 params: {
                   android_intent: "intent:#Intent;action=android.intent.action.MITV_VIDEO_DETAILS;S.id=270501;end"
                 }, 
@@ -8516,7 +8516,7 @@
               }, 
               target: {
                 url: "/tv/lean/v?id=322892", 
-                schema: "mitv", 
+                schema: "yktv", 
                 params: {
                   android_intent: "intent:#Intent;action=android.intent.action.MITV_VIDEO_DETAILS;S.id=322892;end"
                 }, 
@@ -8642,7 +8642,7 @@
               }, 
               target: {
                 url: "/tv/lean/v/filter?id=827&pageno=0&title=%E6%90%9E%E7%AC%91%E7%9F%AD%E8%A7%86%E9%A2%91", 
-                schema: "mitv", 
+                schema: "yktv", 
                 entity: "channel"
               }, 
               ui_type: {
@@ -8731,7 +8731,7 @@
               }, 
               target: {
                 url: "/tv/lean/v/filter?id=828&pageno=0&title=%E4%BD%93%E8%82%B2%E9%A2%91%E9%81%93", 
-                schema: "mitv", 
+                schema: "yktv", 
                 entity: "channel"
               }, 
               ui_type: {
@@ -8791,7 +8791,7 @@
               }, 
               target: {
                 url: "/tv/lean/v/filter?id=762&pageno=0&title=%E7%BE%8E%E5%89%A7%E9%A2%91%E9%81%93", 
-                schema: "mitv", 
+                schema: "yktv", 
                 entity: "channel"
               }, 
               ui_type: {
@@ -8842,7 +8842,7 @@
               id: "FI/307", 
               target: {
                 url: "/tv/lean/v/filter?id=307&pageno=0&title=%E5%8A%A8%E6%BC%AB", 
-                schema: "mitv", 
+                schema: "yktv", 
                 entity: "channel"
               }
             }, 
@@ -8853,7 +8853,7 @@
               }, 
               target: {
                 url: "/tv/lean/v/filter?id=401&pageno=0&title=%E6%95%99%E8%82%B2%E9%A2%91%E9%81%93", 
-                schema: "mitv", 
+                schema: "yktv", 
                 entity: "channel"
               }, 
               ui_type: {
@@ -8884,7 +8884,7 @@
               }, 
               target: {
                 url: "/tv/lean/v/filter?id=834&pageno=0&title=%E6%97%B6%E5%B0%9A%E5%A5%B3%E6%80%A7", 
-                schema: "mitv", 
+                schema: "yktv", 
                 entity: "channel"
               }, 
               ui_type: {
@@ -8915,7 +8915,7 @@
               }, 
               target: {
                 url: "/tv/lean/v/filter?id=651&pageno=0&title=%E6%90%9E%E7%AC%91%E7%9B%B8%E5%A3%B0", 
-                schema: "mitv", 
+                schema: "yktv", 
                 entity: "channel"
               }, 
               ui_type: {
@@ -8946,7 +8946,7 @@
               }, 
               target: {
                 url: "/tv/lean/v/filter?id=419&pageno=0&title=%E7%94%B5%E5%AD%90%E7%AB%9E%E6%8A%80", 
-                schema: "mitv", 
+                schema: "yktv", 
                 entity: "channel"
               }, 
               sub_title: "电子竞技", 
@@ -8978,7 +8978,7 @@
               }, 
               target: {
                 url: "/tv/lean/v/filter?id=829&pageno=0&title=%E5%86%9B%E4%BA%8B%E9%A2%91%E9%81%93", 
-                schema: "mitv", 
+                schema: "yktv", 
                 entity: "channel"
               }, 
               ui_type: {
@@ -9009,7 +9009,7 @@
               }, 
               target: {
                 url: "/tv/lean/v/filter?id=830&pageno=0&title=%E5%B0%8F%E7%B1%B3%E8%A7%86%E9%A2%91", 
-                schema: "mitv", 
+                schema: "yktv", 
                 entity: "channel"
               }, 
               ui_type: {
@@ -9040,7 +9040,7 @@
               }, 
               target: {
                 url: "/tv/lean/v/filter?id=546&pageno=0&title=%E8%93%9D%E5%85%89%E4%B8%93%E5%8C%BA", 
-                schema: "mitv", 
+                schema: "yktv", 
                 entity: "channel"
               }, 
               ui_type: {
@@ -9071,7 +9071,7 @@
               }, 
               target: {
                 url: "/tv/lean/v/filter?id=836&pageno=0&title=%E5%81%A5%E8%BA%AB%E9%A2%91%E9%81%93", 
-                schema: "mitv", 
+                schema: "yktv", 
                 entity: "channel"
               }, 
               ui_type: {
@@ -9102,7 +9102,7 @@
               }, 
               target: {
                 url: "/tv/lean/v/filter?id=786&pageno=0&title=%E7%BE%8E%E9%A3%9F%E9%A2%91%E9%81%93", 
-                schema: "mitv", 
+                schema: "yktv", 
                 entity: "channel"
               }, 
               ui_type: {
@@ -9153,7 +9153,7 @@
               id: "FI/782", 
               target: {
                 url: "/tv/lean/v/filter?id=782&pageno=0&title=%E5%A4%95%E9%98%B3%E7%BA%A2%E5%85%BB%E7%94%9F%E5%A0%82", 
-                schema: "mitv", 
+                schema: "yktv", 
                 entity: "channel"
               }
             }, 
@@ -9184,7 +9184,7 @@
               id: "FI/784", 
               target: {
                 url: "/tv/lean/v/filter?id=784&pageno=0&title=%E5%A4%95%E9%98%B3%E7%BA%A2%E5%B9%BF%E5%9C%BA%E8%88%9E", 
-                schema: "mitv", 
+                schema: "yktv", 
                 entity: "channel"
               }
             }
@@ -9206,7 +9206,7 @@
               }, 
               target: {
                 url: "/tv/lean/v/filter?id=623&pageno=0&title=%E5%B0%8F%E7%B1%B3%E7%94%B5%E8%A7%86%E4%BC%9A%E5%91%98", 
-                schema: "mitv", 
+                schema: "yktv", 
                 entity: "channel"
               }, 
               ui_type: {
@@ -9241,7 +9241,7 @@
                 }
               }, 
               target: {
-                schema: "mitv", 
+                schema: "yktv", 
                 params: {
                   android_intent: "#Intent;action=android.intent.action.MAIN;category=android.intent.category.DEFAULT;launchFlags=0x10000000;package=com.hunantv.market;end"
                 }, 
@@ -9266,7 +9266,7 @@
               }, 
               target: {
                 url: "/tv/lean/v/filter?id=708&pageno=0&title=%E9%BE%99%E8%A7%86%E5%8A%A8%E6%BC%AB", 
-                schema: "mitv", 
+                schema: "yktv", 
                 entity: "channel"
               }, 
               ui_type: {
@@ -9297,7 +9297,7 @@
               }, 
               target: {
                 url: "/tv/lean/v/filter?id=714&pageno=0&title=%E4%B9%90%E7%9C%8B%E5%84%BF%E7%AB%A5", 
-                schema: "mitv", 
+                schema: "yktv", 
                 entity: "channel"
               }, 
               ui_type: {
@@ -9332,7 +9332,7 @@
                 }
               }, 
               target: {
-                schema: "mitv", 
+                schema: "yktv", 
                 params: {
                   android_intent: "#Intent;action=android.intent.action.MAIN;category=android.intent.category.DEFAULT;launchFlags=0x10000000;package=com.ktcp.tvvideo;end"
                 }, 
@@ -9361,7 +9361,7 @@
                 }
               }, 
               target: {
-                schema: "mitv", 
+                schema: "yktv", 
                 params: {
                   android_intent: "#Intent;action=android.intent.action.MAIN;category=android.intent.category.DEFAULT;launchFlags=0x10000000;package=com.wasu.wasutvcs;end"
                 }, 
@@ -9386,7 +9386,7 @@
               }, 
               target: {
                 url: "/tv/lean/v/filter?id=807&pageno=0&title=%E8%B7%B3%E5%90%A7TV", 
-                schema: "mitv", 
+                schema: "yktv", 
                 entity: "channel"
               }, 
               ui_type: {
@@ -9417,7 +9417,7 @@
               }, 
               target: {
                 url: "/tv/lean/v/filter?id=713&pageno=0&title=%E5%B0%8F%E4%BC%99%E4%BC%B4TV", 
-                schema: "mitv", 
+                schema: "yktv", 
                 entity: "channel"
               }, 
               ui_type: {
@@ -9480,7 +9480,7 @@
               id: "FI/578", 
               target: {
                 url: "/tv/lean/v/filter?id=578&pageno=0&title=%E9%99%A2%E7%BA%BF%E7%83%AD%E6%98%A0", 
-                schema: "mitv", 
+                schema: "yktv", 
                 entity: "channel"
               }
             }, 
@@ -9511,7 +9511,7 @@
               id: "FI/743", 
               target: {
                 url: "/tv/lean/v/filter?id=743&pageno=0&title=%E7%94%B5%E5%BD%B1%E6%9C%80%E6%96%B0%E4%B8%8A%E7%BA%BF", 
-                schema: "mitv", 
+                schema: "yktv", 
                 entity: "channel"
               }
             }, 
@@ -9542,7 +9542,7 @@
               id: "FI/742", 
               target: {
                 url: "/tv/lean/v/filter?id=742&pageno=0&title=%E7%94%B5%E5%BD%B1%E6%8E%92%E8%A1%8C%E6%A6%9C", 
-                schema: "mitv", 
+                schema: "yktv", 
                 entity: "channel"
               }
             }, 
@@ -9573,7 +9573,7 @@
               id: "FI/745", 
               target: {
                 url: "/tv/lean/v/filter?id=745&pageno=0&title=%E7%94%B5%E5%BD%B1%E5%8A%B2%E7%88%86%E5%8A%A8%E4%BD%9C", 
-                schema: "mitv", 
+                schema: "yktv", 
                 entity: "channel"
               }
             }, 
@@ -9604,7 +9604,7 @@
               id: "FI/744", 
               target: {
                 url: "/tv/lean/v/filter?id=744&pageno=0&title=%E7%94%B5%E5%BD%B1%E8%BD%BB%E6%9D%BE%E5%96%9C%E5%89%A7", 
-                schema: "mitv", 
+                schema: "yktv", 
                 entity: "channel"
               }
             }, 
@@ -9635,7 +9635,7 @@
               id: "FI/776", 
               target: {
                 url: "/tv/lean/v/filter?id=776&pageno=0&title=%E7%94%B5%E5%BD%B1%E6%9E%81%E6%B8%85%E4%B8%93%E5%8C%BA", 
-                schema: "mitv", 
+                schema: "yktv", 
                 entity: "channel"
               }
             }, 
@@ -9666,7 +9666,7 @@
               id: "FI/746", 
               target: {
                 url: "/tv/lean/v/filter?id=746&pageno=0&title=%E7%94%B5%E5%BD%B1%E5%A5%BD%E8%8E%B1%E5%9D%9E%E5%A4%A7%E7%89%87", 
-                schema: "mitv", 
+                schema: "yktv", 
                 entity: "channel"
               }
             }, 
@@ -9697,7 +9697,7 @@
               id: "FI/777", 
               target: {
                 url: "/tv/lean/v/filter?id=777&pageno=0&title=%E7%94%B5%E5%BD%B1%E6%83%8A%E6%82%9A%E6%82%AC%E7%96%91", 
-                schema: "mitv", 
+                schema: "yktv", 
                 entity: "channel"
               }
             }, 
@@ -9728,7 +9728,7 @@
               id: "FI/778", 
               target: {
                 url: "/tv/lean/v/filter?id=778&pageno=0&title=%E7%94%B5%E5%BD%B1%E7%A7%91%E5%B9%BB%E5%86%92%E9%99%A9", 
-                schema: "mitv", 
+                schema: "yktv", 
                 entity: "channel"
               }
             }, 
@@ -9759,7 +9759,7 @@
               id: "FI/748", 
               target: {
                 url: "/tv/lean/v/filter?id=748&pageno=0&title=%E7%94%B5%E5%BD%B1%E7%88%B1%E6%83%85%E5%BD%B1%E9%99%A2", 
-                schema: "mitv", 
+                schema: "yktv", 
                 entity: "channel"
               }
             }, 
@@ -9790,7 +9790,7 @@
               id: "FI/749", 
               target: {
                 url: "/tv/lean/v/filter?id=749&pageno=0&title=%E7%94%B5%E5%BD%B1%E4%BD%B3%E7%89%87%E5%89%A7%E5%9C%BA", 
-                schema: "mitv", 
+                schema: "yktv", 
                 entity: "channel"
               }
             }, 
@@ -9821,7 +9821,7 @@
               id: "FI/810", 
               target: {
                 url: "/tv/lean/v/filter?id=810&pageno=0&title=%E7%94%B5%E5%BD%B1%E6%9D%9C%E6%AF%94%E4%B8%93%E5%8C%BA", 
-                schema: "mitv", 
+                schema: "yktv", 
                 entity: "channel"
               }
             }
@@ -9864,7 +9864,7 @@
               id: "FI/754", 
               target: {
                 url: "/tv/lean/v/filter?id=754&pageno=0&title=%E7%94%B5%E8%A7%86%E5%89%A7%E5%8F%A4%E8%A3%85%E9%A2%91%E9%81%93", 
-                schema: "mitv", 
+                schema: "yktv", 
                 entity: "channel"
               }
             }, 
@@ -9895,7 +9895,7 @@
               id: "FI/752", 
               target: {
                 url: "/tv/lean/v/filter?id=752&pageno=0&title=%E7%94%B5%E8%A7%86%E5%89%A7%E5%96%9C%E5%89%A7%E9%A2%91%E9%81%93", 
-                schema: "mitv", 
+                schema: "yktv", 
                 entity: "channel"
               }
             }, 
@@ -9926,7 +9926,7 @@
               id: "FI/751", 
               target: {
                 url: "/tv/lean/v/filter?id=751&pageno=0&title=%E7%94%B5%E8%A7%86%E5%89%A7%E9%83%BD%E5%B8%82%E9%A2%91%E9%81%93", 
-                schema: "mitv", 
+                schema: "yktv", 
                 entity: "channel"
               }
             }, 
@@ -9957,7 +9957,7 @@
               id: "FI/755", 
               target: {
                 url: "/tv/lean/v/filter?id=755&pageno=0&title=%E7%94%B5%E8%A7%86%E5%89%A7%E8%B0%8D%E6%88%98%E9%A2%91%E9%81%93", 
-                schema: "mitv", 
+                schema: "yktv", 
                 entity: "channel"
               }
             }, 
@@ -9988,7 +9988,7 @@
               id: "FI/757", 
               target: {
                 url: "/tv/lean/v/filter?id=757&pageno=0&title=%E7%94%B5%E8%A7%86%E5%89%A7%E6%AD%A6%E4%BE%A0%E9%A2%91%E9%81%93", 
-                schema: "mitv", 
+                schema: "yktv", 
                 entity: "channel"
               }
             }, 
@@ -10019,7 +10019,7 @@
               id: "FI/758", 
               target: {
                 url: "/tv/lean/v/filter?id=758&pageno=0&title=%E7%94%B5%E8%A7%86%E5%89%A7%E8%AD%A6%E5%8C%AA%E9%A2%91%E9%81%93", 
-                schema: "mitv", 
+                schema: "yktv", 
                 entity: "channel"
               }
             }, 
@@ -10050,7 +10050,7 @@
               id: "FI/762", 
               target: {
                 url: "/tv/lean/v/filter?id=762&pageno=0&title=%E7%94%B5%E8%A7%86%E5%89%A7%E7%BE%8E%E5%89%A7%E9%A2%91%E9%81%93", 
-                schema: "mitv", 
+                schema: "yktv", 
                 entity: "channel"
               }
             }, 
@@ -10081,7 +10081,7 @@
               id: "FI/763", 
               target: {
                 url: "/tv/lean/v/filter?id=763&pageno=0&title=%E7%94%B5%E8%A7%86%E5%89%A7%E9%9F%A9%E5%89%A7%E9%A2%91%E9%81%93", 
-                schema: "mitv", 
+                schema: "yktv", 
                 entity: "channel"
               }
             }, 
@@ -10112,7 +10112,7 @@
               id: "FI/772", 
               target: {
                 url: "/tv/lean/v/filter?id=772&pageno=0&title=TVB%E6%B8%AF%E5%89%A7", 
-                schema: "mitv", 
+                schema: "yktv", 
                 entity: "channel"
               }
             }, 
@@ -10143,7 +10143,7 @@
               id: "FI/760", 
               target: {
                 url: "/tv/lean/v/filter?id=760&pageno=0&title=%E7%94%B5%E8%A7%86%E5%89%A7%E5%AE%B6%E5%BA%AD%E9%A2%91%E9%81%93", 
-                schema: "mitv", 
+                schema: "yktv", 
                 entity: "channel"
               }
             }, 
@@ -10174,7 +10174,7 @@
               id: "FI/759", 
               target: {
                 url: "/tv/lean/v/filter?id=759&pageno=0&title=%E7%94%B5%E8%A7%86%E5%89%A7%E6%82%AC%E7%96%91%E9%A2%91%E9%81%93", 
-                schema: "mitv", 
+                schema: "yktv", 
                 entity: "channel"
               }
             }, 
@@ -10205,7 +10205,7 @@
               id: "FI/756", 
               target: {
                 url: "/tv/lean/v/filter?id=756&pageno=0&title=%E7%94%B5%E8%A7%86%E5%89%A7%E7%88%B1%E6%83%85%E9%A2%91%E9%81%93", 
-                schema: "mitv", 
+                schema: "yktv", 
                 entity: "channel"
               }
             }
@@ -10248,7 +10248,7 @@
               id: "FI/738", 
               target: {
                 url: "/tv/lean/v/filter?id=738&pageno=0&title=%E6%98%8E%E6%98%9F%E7%AB%9E%E6%8A%80", 
-                schema: "mitv", 
+                schema: "yktv", 
                 entity: "channel"
               }
             }, 
@@ -10279,7 +10279,7 @@
               id: "FI/767", 
               target: {
                 url: "/tv/lean/v/filter?id=767&pageno=0&title=%E9%9F%B3%E4%B9%90%E9%80%89%E7%A7%80", 
-                schema: "mitv", 
+                schema: "yktv", 
                 entity: "channel"
               }
             }, 
@@ -10310,7 +10310,7 @@
               id: "FI/766", 
               target: {
                 url: "/tv/lean/v/filter?id=766&pageno=0&title=%E9%9F%A9%E5%9B%BD%E7%BB%BC%E8%89%BA", 
-                schema: "mitv", 
+                schema: "yktv", 
                 entity: "channel"
               }
             }, 
@@ -10341,7 +10341,7 @@
               id: "FI/651", 
               target: {
                 url: "/tv/lean/v/filter?id=651&pageno=0&title=%E7%9B%B8%E5%A3%B0%E5%B0%8F%E5%93%81", 
-                schema: "mitv", 
+                schema: "yktv", 
                 entity: "channel"
               }
             }, 
@@ -10372,7 +10372,7 @@
               id: "FI/737", 
               target: {
                 url: "/tv/lean/v/filter?id=737&pageno=0&title=%E8%90%8C%E5%A8%83%E4%BA%B2%E5%AD%90", 
-                schema: "mitv", 
+                schema: "yktv", 
                 entity: "channel"
               }
             }, 
@@ -10403,7 +10403,7 @@
               id: "FI/827", 
               target: {
                 url: "/tv/lean/v/filter?id=827&pageno=0&title=%E6%90%9E%E7%AC%91", 
-                schema: "mitv", 
+                schema: "yktv", 
                 entity: "channel"
               }
             }
@@ -10446,7 +10446,7 @@
               id: "FI/727", 
               target: {
                 url: "/tv/lean/v/filter?id=727&pageno=0&title=%E5%B0%91%E5%84%BF%E5%8A%A8%E7%94%BB", 
-                schema: "mitv", 
+                schema: "yktv", 
                 entity: "channel"
               }
             }, 
@@ -10477,7 +10477,7 @@
               id: "FI/728", 
               target: {
                 url: "/tv/lean/v/filter?id=728&pageno=0&title=%E5%B0%91%E5%84%BF%E5%84%BF%E6%AD%8C", 
-                schema: "mitv", 
+                schema: "yktv", 
                 entity: "channel"
               }
             }, 
@@ -10508,7 +10508,7 @@
               id: "FI/729", 
               target: {
                 url: "/tv/lean/v/filter?id=729&pageno=0&title=%E5%B0%91%E5%84%BF%E5%B9%BC%E6%95%99", 
-                schema: "mitv", 
+                schema: "yktv", 
                 entity: "channel"
               }
             }, 
@@ -10539,7 +10539,7 @@
               id: "FI/788", 
               target: {
                 url: "/tv/lean/v/filter?id=788&pageno=0&title=%E5%B0%91%E5%84%BF%E5%84%BF%E7%AB%A5%E5%BD%B1%E9%99%A2", 
-                schema: "mitv", 
+                schema: "yktv", 
                 entity: "channel"
               }
             }, 
@@ -10570,7 +10570,7 @@
               id: "FI/819", 
               target: {
                 url: "/tv/lean/v/filter?id=819&pageno=0&title=%E8%B4%9D%E7%93%A6%E5%84%BF%E7%AB%A5%E4%B9%90%E5%9B%AD", 
-                schema: "mitv", 
+                schema: "yktv", 
                 entity: "channel"
               }
             }, 
@@ -10601,7 +10601,7 @@
               id: "FI/789", 
               target: {
                 url: "/tv/lean/v/filter?id=789&pageno=0&title=%E5%B0%91%E5%84%BF%E8%BF%AA%E5%A3%AB%E5%B0%BC", 
-                schema: "mitv", 
+                schema: "yktv", 
                 entity: "channel"
               }
             }, 
@@ -10632,7 +10632,7 @@
               id: "FI/714", 
               target: {
                 url: "/tv/lean/v/filter?id=714&pageno=0&title=%E4%B9%90%E7%9C%8B%E5%84%BF%E7%AB%A5", 
-                schema: "mitv", 
+                schema: "yktv", 
                 entity: "channel"
               }
             }, 
@@ -10663,7 +10663,7 @@
               id: "FI/826", 
               target: {
                 url: "/tv/lean/v/filter?id=826&pageno=0&title=%E4%BA%B2%E5%AE%9D%E5%84%BF%E6%AD%8C", 
-                schema: "mitv", 
+                schema: "yktv", 
                 entity: "channel"
               }
             }, 
@@ -10694,7 +10694,7 @@
               id: "FI/717", 
               target: {
                 url: "/tv/lean/v/filter?id=717&pageno=0&title=%E5%93%88%E5%88%A9%E5%AD%A6%E5%89%8D%E7%8F%AD", 
-                schema: "mitv", 
+                schema: "yktv", 
                 entity: "channel"
               }
             }, 
@@ -10725,7 +10725,7 @@
               id: "FI/721", 
               target: {
                 url: "/tv/lean/v/filter?id=721&pageno=0&title=%E7%A2%B0%E7%A2%B0%E7%8B%90", 
-                schema: "mitv", 
+                schema: "yktv", 
                 entity: "channel"
               }
             }, 
@@ -10756,7 +10756,7 @@
               id: "FI/821", 
               target: {
                 url: "/tv/lean/v/filter?id=821&pageno=0&title=MOMO%E6%97%A9%E6%95%99", 
-                schema: "mitv", 
+                schema: "yktv", 
                 entity: "channel"
               }
             }, 
@@ -10787,7 +10787,7 @@
               id: "FI/710", 
               target: {
                 url: "/tv/lean/v/filter?id=710&pageno=0&title=%E7%A9%BA%E4%B8%AD%E8%8B%B1%E8%AF%AD", 
-                schema: "mitv", 
+                schema: "yktv", 
                 entity: "channel"
               }
             }
