@@ -145,8 +145,7 @@
             name: "block_grid_button", 
             columns: 3
           }, 
-          id: "CD/14",
-          title: "海报"
+          id: "CD/14"
         }, 
         {
           items: [
