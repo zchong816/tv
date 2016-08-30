@@ -35,9 +35,7 @@
                 entity: "v:album"
               }, 
               title: "老九门", 
-              sub_title:"老九门锄禾日当午",
               ui_type: {
-                align: "left",
                 style: "movie", 
                 name: "display_item", 
                 pos: {
@@ -74,7 +72,6 @@
               }, 
               title: "灭罪师", 
               ui_type: {
-                align: "left",
                 style: "movie", 
                 name: "display_item", 
                 pos: {
