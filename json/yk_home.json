@@ -15,7 +15,7 @@
           ui_type: {
             unitary: false, 
             ratio: 1.4, 
-            name: "grid", 
+            name: "block_grid", 
             columns: 6
           }, 
           ver: 1472632778, 
