@@ -1,0 +1,169 @@
+{
+  status: 0, 
+  ui_type: {
+    unitary: true, 
+    name: "left_nav"
+  }, 
+  code: 0, 
+  blocks: [
+    {
+      ui_type: {
+        name: "list"
+      }, 
+      blocks: [
+        {
+          ui_type: {
+            unitary: false, 
+            ratio: 1.4, 
+            name: "grid", 
+            columns: 6
+          }, 
+          ver: 1472632778, 
+          ad: {
+            enable: false
+          }, 
+          title: "个人中心", 
+          items: [
+            {
+              ui_type: {
+                unitary: true, 
+                name: "display_item", 
+                pos: {
+                  y: 0, 
+                  x: 0, 
+                  w: 1, 
+                  h: 2
+                }
+              }, 
+              blocks: [ ], 
+              ad: {
+                enable: false
+              }, 
+              title: "上次观看", 
+              ver: 1472632723, 
+              id: 8
+            }, 
+            {
+              ui_type: {
+                unitary: true, 
+                name: "display_item", 
+                pos: {
+                  y: 0, 
+                  x: 1, 
+                  w: 1, 
+                  h: 1
+                }
+              }, 
+              blocks: [ ], 
+              ad: {
+                enable: false
+              }, 
+              title: "最近观看", 
+              ver: 1472632745, 
+              id: 9
+            }, 
+            {
+              ui_type: {
+                unitary: true, 
+                name: "display_item", 
+                pos: {
+                  y: 1, 
+                  x: 1, 
+                  w: 1, 
+                  h: 1
+                }
+              }, 
+              blocks: [ ], 
+              ad: {
+                enable: false
+              }, 
+              title: "我的应用", 
+              ver: 1472632755, 
+              id: 10
+            }, 
+            {
+              ui_type: {
+                unitary: true, 
+                name: "display_item", 
+                pos: {
+                  y: 0, 
+                  x: 2, 
+                  w: 1, 
+                  h: 2
+                }
+              }, 
+              blocks: [ ], 
+              ad: {
+                enable: false
+              }, 
+              title: "直播", 
+              ver: 1472632778, 
+              id: 11
+            }
+          ], 
+          id: 7
+        }
+      ], 
+      ad: {
+        enable: false
+      }, 
+      title: "精选", 
+      ver: 1472632778, 
+      id: 2
+    }, 
+    {
+      ui_type: {
+        name: "list"
+      }, 
+      blocks: [ ], 
+      ad: {
+        enable: false
+      }, 
+      title: "电影", 
+      ver: 1472631187, 
+      id: 3
+    }, 
+    {
+      ui_type: {
+        name: "list"
+      }, 
+      blocks: [ ], 
+      ad: {
+        enable: false
+      }, 
+      title: "电视剧", 
+      ver: 1472631187, 
+      id: 4
+    }, 
+    {
+      ui_type: {
+        name: "list"
+      }, 
+      blocks: [ ], 
+      ad: {
+        enable: false
+      }, 
+      title: "综艺", 
+      ver: 1472631187, 
+      id: 5
+    }, 
+    {
+      ui_type: {
+        name: "list"
+      }, 
+      blocks: [ ], 
+      ad: {
+        enable: false
+      }, 
+      title: "少儿", 
+      ver: 1472631187, 
+      id: 6
+    }
+  ], 
+  ad: {
+    enable: false
+  }, 
+  title: "入口", 
+  ver: 1472632849, 
+  id: 1
+}
