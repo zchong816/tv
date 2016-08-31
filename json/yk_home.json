@@ -34,7 +34,15 @@
                   w: 1, 
                   h: 2
                 }
+              },
+
+              images: {
+              poster: {
+                  url: "http://image.box.xiaomi.com/mfsv2/download/fdsc3/p011jnZBlHyz/f4rK7FFaaVEPmX.png", 
+                  md5: "76084fc5e787b74b6db17a88b8bc5b99"
+                }
               }, 
+
               ad: {
                 enable: false
               }, 
@@ -51,6 +59,11 @@
                   x: 1, 
                   w: 1, 
                   h: 1
+                }
+              },  images: {
+              poster: {
+                  url: "http://image.box.xiaomi.com/mfsv2/download/fdsc3/p011jnZBlHyz/f4rK7FFaaVEPmX.png", 
+                  md5: "76084fc5e787b74b6db17a88b8bc5b99"
                 }
               }, 
               ad: {
@@ -70,6 +83,11 @@
                   w: 1, 
                   h: 1
                 }
+              },  images: {
+              poster: {
+                  url: "http://image.box.xiaomi.com/mfsv2/download/fdsc3/p011jnZBlHyz/f4rK7FFaaVEPmX.png", 
+                  md5: "76084fc5e787b74b6db17a88b8bc5b99"
+                }
               }, 
               ad: {
                 enable: false
@@ -87,6 +105,11 @@
                   x: 2, 
                   w: 1, 
                   h: 2
+                }
+              },  images: {
+              poster: {
+                  url: "http://image.box.xiaomi.com/mfsv2/download/fdsc3/p011jnZBlHyz/f4rK7FFaaVEPmX.png", 
+                  md5: "76084fc5e787b74b6db17a88b8bc5b99"
                 }
               }, 
               ad: {
