@@ -15,7 +15,7 @@
           ui_type: {
             unitary: false, 
             ratio: 1.4, 
-            name: "block_grid_button", 
+            name: "block_grid", 
             columns: 3
           }, 
           ver: 1472632778, 
