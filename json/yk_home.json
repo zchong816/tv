@@ -110,54 +110,6 @@
       title: "精选", 
       ver: 1472632778, 
       id: 2
-    }, 
-    {
-      ui_type: {
-        name: "block_list"
-      }, 
-      blocks: [ ], 
-      ad: {
-        enable: false
-      }, 
-      title: "电影", 
-      ver: 1472631187, 
-      id: 3
-    }, 
-    {
-      ui_type: {
-        name: "block_list"
-      }, 
-      blocks: [ ], 
-      ad: {
-        enable: false
-      }, 
-      title: "电视剧", 
-      ver: 1472631187, 
-      id: 4
-    }, 
-    {
-      ui_type: {
-        name: "block_list"
-      }, 
-      blocks: [ ], 
-      ad: {
-        enable: false
-      }, 
-      title: "综艺", 
-      ver: 1472631187, 
-      id: 5
-    }, 
-    {
-      ui_type: {
-        name: "block_list"
-      }, 
-      blocks: [ ], 
-      ad: {
-        enable: false
-      }, 
-      title: "少儿", 
-      ver: 1472631187, 
-      id: 6
     }
   ], 
   ad: {
