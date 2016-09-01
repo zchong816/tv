@@ -16,7 +16,7 @@
             unitary: false, 
             ratio: 1.4, 
             name: "block_grid", 
-            columns: 6
+            columns: 3
           }, 
           ver: 1472632778, 
           ad: {
