@@ -281,9 +281,8 @@
             }
           ], 
           ui_type: {
-            unitary: true, 
             ratio: 2.2667, 
-            name: "block_grid_button", 
+            name: "block_grid_button_same", 
             columns: 2
           }, 
           id: "CD/761", 
