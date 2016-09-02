@@ -688,7 +688,7 @@
           ], 
           ui_type: {
             ratio: 2.2, 
-            name: "block_grid_button_same", 
+            name: "block_grid_button", 
             columns: 3
           }, 
           id: "CD/640", 
