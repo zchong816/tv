@@ -103,5 +103,8 @@ block_grid_button 		可以不同的      只有图片          unitary: true 同
               }
             }
 
+u_center
+
+
 
 

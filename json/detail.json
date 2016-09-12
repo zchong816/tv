@@ -1,0 +1,211 @@
+{
+  status: 0, 
+  ui_type: {
+    name: "single_page"
+  }, 
+  ver: 1473406894, 
+  media: {
+    showid: "xxxxxxxx", 
+    videoid: "xxxxxx", 
+    show_videotype: "正片", 
+    paid: 0, 
+    publictype: 0, 
+    display_style: 0, 
+    total_vv: 7888, 
+    posterurl: "http://image.cdn.pandora.xiaomi.com/mitv/10007/1/35a5aa12e92d3ea37a95dd33ab67e316.jpg", 
+    category: "电视剧", 
+    title: "xxxx", 
+    rating: 6.6, 
+    show_logo: 1, 
+    douban_rating: 8.2, 
+    desc: "三个孩子，三对夫妻，三个家庭，恰好都碰撞上了出国潮。方家父母的心被女儿方朵朵的忽上忽下的成绩牵绊；金家妈妈非要学霸女儿金琴琴最好的教育；大老板张亮忠家里的混世小魔王张小宇与娇妻矛盾不断。出国留学的故事由此展开。", 
+    showname: "小别离", 
+    video_play_type: 0, 
+    language: "", 
+    title_icon_label: "", 
+    completed: 0, 
+    type: 2, 
+    duration: 3600, 
+    audience_ages: "全年龄", 
+    premiere_date: 2016, 
+    seriescount: 45, 
+    seriesnow: 45, 
+    directorlist: [
+      {
+        gender: 1, 
+        id: 122920, 
+        name: "汪俊", 
+        avatar: {
+          url: "http://image.cdn.pandora.xiaomi.com/mitv/10007/1/a2da3aa539290ff73c25d7dcb8ce295a.jpg", 
+          md5: "a2da3aa539290ff73c25d7dcb8ce295a"
+        }
+      }
+    ], 
+    actorlist: [
+      {
+        gender: 1, 
+        id: 122214, 
+        name: "黄磊", 
+        avatar: {
+          url: "http://image.cdn.pandora.xiaomi.com/mitv/10007/2/3f6848a0ebd9599c7d1d3000979f65ec.png", 
+          md5: "3f6848a0ebd9599c7d1d3000979f65ec"
+        }
+      }, 
+      {
+        gender: 2, 
+        id: 112125, 
+        name: "海清", 
+        avatar: {
+          url: "http://image.cdn.pandora.xiaomi.com/mitv/10007/2/62724a19f18b8f0d1ef3a6e36d657448.png", 
+          md5: "62724a19f18b8f0d1ef3a6e36d657448"
+        }
+      }
+    ], 
+    display_fields: [
+      "2016-07-31", 
+      "大陆", 
+      "剧情/武侠/神话"
+    ], 
+    series: [
+      {
+        format_flag: 7, 
+        img: "http://r2.cp31.ott.cibntv.net/0542040857CD38036A0A4004C452C6E3", 
+        is_new: true, 
+        is_new_release: 0, 
+        is_trailer: 1, 
+        limit: 0, 
+        pay_type: 0, 
+        pk_video: 428498297, 
+        play_flag: 7, 
+        show_videotype: "预告片", 
+        title: "《青云志》22集预告片", 
+        video_stage: 22, 
+        videoid: "XMTcxMzk5MzE4OA==", 
+        videosize: 11404800, 
+        videosize_hd: 19958400, 
+        videosize_hd2: 38016000
+      }, 
+      {
+        format_flag: 3, 
+        img: "http://r4.cp31.ott.cibntv.net/0542040857CD36096A0A4704E5936D8F", 
+        is_new: true, 
+        is_new_release: 0, 
+        is_trailer: 1, 
+        limit: 0, 
+        pay_type: 0, 
+        pk_video: 428497911, 
+        play_flag: 3, 
+        show_videotype: "预告片", 
+        title: "《青云志》21集预告片", 
+        video_stage: 21, 
+        videoid: "XMTcxMzk5MTY0NA==", 
+        videosize: 11366400, 
+        videosize_hd: 19891200, 
+        videosize_hd2: 37888000
+      }
+    ], 
+    cast_info: [
+      {
+        display_name: "导演", 
+        value: [
+          {
+            gender: 1, 
+            id: 122920, 
+            name: "汪俊", 
+            avatar: {
+              url: "http://image.cdn.pandora.xiaomi.com/mitv/10007/1/a2da3aa539290ff73c25d7dcb8ce295a.jpg", 
+              md5: "a2da3aa539290ff73c25d7dcb8ce295a"
+            }
+          }
+        ]
+      }, 
+      {
+        display_name: "演员", 
+        value: [
+          {
+            gender: 1, 
+            id: 122214, 
+            name: "黄磊", 
+            avatar: {
+              url: "http://image.cdn.pandora.xiaomi.com/mitv/10007/2/3f6848a0ebd9599c7d1d3000979f65ec.png", 
+              md5: "3f6848a0ebd9599c7d1d3000979f65ec"
+            }
+          }, 
+          {
+            gender: 2, 
+            id: 112125, 
+            name: "海清", 
+            avatar: {
+              url: "http://image.cdn.pandora.xiaomi.com/mitv/10007/2/62724a19f18b8f0d1ef3a6e36d657448.png", 
+              md5: "62724a19f18b8f0d1ef3a6e36d657448"
+            }
+          }, 
+          {
+            gender: 2, 
+            id: 100600, 
+            name: "张子枫", 
+            avatar: {
+              url: "http://image.cdn.pandora.xiaomi.com/mitv/10007/1/07e13682ce1ce2689b0e914d2c9838f7.jpg", 
+              md5: "07e13682ce1ce2689b0e914d2c9838f7"
+            }
+          }
+        ]
+      }
+    ], 
+    regions: [
+      "中国大陆"
+    ], 
+    rating_info: [
+      {
+        display_name: "艺术分", 
+        value: 5.7
+      }, 
+      {
+        display_name: "娱乐分", 
+        value: 5.5
+      }
+    ]
+  }, 
+  blocks: [
+    {
+      ui_type: {
+        name: "block_list"
+      }, 
+      blocks: [
+        {
+          items: [
+            {
+              stat: {
+                id: 65829, 
+                tp: "milist"
+              }, 
+              target: {
+                url: "/tv/lean/ml?id=65829", 
+                entity: "v:milist", 
+                schema: "mitv"
+              }, 
+              title: "良心盘点：国产剧的春天来了", 
+              ui_type: {
+                name: "display_item", 
+                pos: {
+                  y: 0, 
+                  x: 0, 
+                  w: 1, 
+                  h: 1
+                }
+              }, 
+              images: {
+                poster: {
+                  url: "http://image.box.xiaomi.com/mfsv2/download/s010/p01aujQLDoh9/EJqgKYdBxdcz7V.jpg", 
+                  md5: "a75d696bcc8070c2bb7ce1325a158065"
+                }
+              }, 
+              ns: "video", 
+              id: "ML/65829"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
