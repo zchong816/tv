@@ -1,0 +1,65 @@
+{ 
+  status: 0, 
+  ui_type: {
+    name: "single_page"
+  }, 
+  ver: 1473406894, 
+  starinfo: {
+    background_img: "http://r4.ykimg.com/0515000055DAAE7167BC3C63380A60F8", 
+    birthday: "1982-04-17", 
+    bloodtype: "B", 
+    excellent_count: "4", 
+    gender: "男", 
+    hasthumb: "1", 
+    height: "179", 
+    homeplace: "韩国釜山", 
+    movie_count: "7", 
+    nationality: "韩国", 
+    occupation: "演员/歌手/模特", 
+    persondesc: "李准基，韩国男演员、歌手、模特，2002年考入首尔艺术大学电影系。2004年通过日韩合拍电影《维纳斯宾馆》出道。2005年在电视剧《我的女孩》中饰演了徐政宇一角，并成为同时段收视率排行榜冠军。2005年在电影《王的男人》饰演了孔吉一角后，李准基在第42届百想艺术大赏里，拿下了新人男演员奖与Instyle最佳服装男艺人奖，并在第27届青龙电影节、第10届上海国际电影节获得人气奖，第27届HIFF夏威夷国际电影节斩获新星奖，又在第43届韩国电影大钟奖上获得了新人男演员奖、国内人气奖、海外人气奖三项大奖。2007年于韩剧史上第一部黑色谍战剧、韩版“无间道”《狼与狗的时间》中，一人分饰卧底和情报员两角。2008年其饰演的侠盗《一枝梅》创下了31.4%的高收视率。2012年李准基出演《阿娘使道传》，并凭此剧获得了第8届首尔国际电视节(SDA)韩流电视剧最佳男演员。兵役回归之后的他于2013年《Two Weeks》中首次挑战父亲形象，父爱演技获得了业界人士及观众的一致好评。其他作品有《飞吧爸爸》《英雄》《谎言西西里》《步步惊心:丽》等。", 
+    personid: "16334", 
+    personname: "李准基", 
+  }, 
+  blocks: [
+    {
+      ui_type: {
+        name: "block_list"
+      }, 
+      blocks: [
+        {
+          items: [
+            {
+              stat: {
+                id: 65829, 
+                tp: "milist"
+              }, 
+              target: {
+                url: "/tv/lean/ml?id=65829", 
+                entity: "v:list", 
+                schema: "yktv"
+              }, 
+              title: "良心盘点：国产剧的春天来了", 
+              ui_type: {
+                name: "display_item", 
+                pos: {
+                  y: 0, 
+                  x: 0, 
+                  w: 1, 
+                  h: 1
+                }
+              }, 
+              images: {
+                poster: {
+                  url: "http://image.box.xiaomi.com/mfsv2/download/s010/p01aujQLDoh9/EJqgKYdBxdcz7V.jpg", 
+                  md5: "a75d696bcc8070c2bb7ce1325a158065"
+                }
+              }, 
+              ns: "video", 
+              id: "YK/65829"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
