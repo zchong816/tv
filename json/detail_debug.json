@@ -1869,7 +1869,7 @@
           ], 
           ui_type: {
             columns: 6, 
-            name: "block_grid_same", 
+            name: "block_griddebug_same", 
             ratio: 0.66
           }, 
           title: "相关节目"
