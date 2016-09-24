@@ -2661,7 +2661,7 @@
           title: "推荐", 
           ui_type: {
             columns: 6, 
-            name: "block_griddebug_same", 
+            name: "block_grid", 
             ratio: 0.66
           }
         }
