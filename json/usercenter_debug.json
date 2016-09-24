@@ -1373,6 +1373,7 @@
           title: "节目", 
           ui_type: {
             name: "block_grid_classic_h", 
+
             unitary: false
           }
         }, 
@@ -2661,8 +2662,7 @@
           title: "推荐", 
           ui_type: {
             columns: 6, 
-            name: "block_grid",
-            unitary: true, 
+            name: "block_grid_classic_same",
             ratio: 0.66
           }
         }
