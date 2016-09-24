@@ -2661,7 +2661,8 @@
           title: "推荐", 
           ui_type: {
             columns: 6, 
-            name: "block_grid", 
+            name: "block_grid",
+            unitary: true, 
             ratio: 0.66
           }
         }
