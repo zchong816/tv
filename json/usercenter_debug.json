@@ -1307,8 +1307,9 @@
           title: "会员影片推荐", 
           ui_type: {
             columns: 6, 
-            name: "block_grid_classic_same", 
-            ratio: 0.66
+            name: "block_grid", 
+            ratio: 0.66, 
+            unitary: true
           }
         }
       ], 
