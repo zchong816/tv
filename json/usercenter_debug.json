@@ -225,6 +225,233 @@
               }, 
               ns: "video", 
               id: "V/75178"
+            }
+          ], 
+          title: "会员影片推荐", 
+          ui_type: {
+            columns: 6, 
+            name: "block_grid_classic_same", 
+            ratio: 0.66, 
+            unitary: true
+          }
+        }, 
+        {
+          ad: {
+            enable: false
+          }, 
+          items: [
+            {
+              stat: {
+                id: 86489, 
+                tp: "album"
+              }, 
+              target: {
+                url: "/tv/lean/v?id=86489", 
+                entity: "v:album", 
+                params: {
+                  android_intent: "intent:#Intent;action=android.intent.action.MITV_VIDEO_DETAILS;S.id=86489;end"
+                }, 
+                schema: "mitv"
+              }, 
+              title: "大刀记", 
+              hint: {
+                right: 4.1
+              }, 
+              ui_type: {
+                style: "movie", 
+                name: "display_item", 
+                pos: {
+                  y: 0, 
+                  x: 0, 
+                  w: 1, 
+                  h: 1
+                }
+              }, 
+              images: {
+                poster: {
+                  url: "http://image.box.xiaomi.com/mfsv2/download/s010/p01tG3cq14LE/BfVOznlEDKD02A.jpg", 
+                  md5: "4d2c40326f7a2e3d46dd8daff3ec1dd1"
+                }
+              }, 
+              ns: "video", 
+              id: "V/86489"
+            }, 
+            {
+              stat: {
+                id: 371639, 
+                tp: "album"
+              }, 
+              target: {
+                url: "/tv/lean/v?id=371639", 
+                entity: "v:album", 
+                params: {
+                  android_intent: "intent:#Intent;action=android.intent.action.MITV_VIDEO_DETAILS;S.id=371639;end"
+                }, 
+                schema: "mitv"
+              }, 
+              title: "我的蠢萌老公", 
+              ui_type: {
+                style: "movie", 
+                name: "display_item", 
+                pos: {
+                  y: 0, 
+                  x: 1, 
+                  w: 1, 
+                  h: 1
+                }
+              }, 
+              images: {
+                poster: {
+                  url: "http://image.cdn.pandora.xiaomi.com/mitv/10007/1/a6eeeebf84fe0828e8eea46df1798123.jpg", 
+                  md5: "a6eeeebf84fe0828e8eea46df1798123"
+                }
+              }, 
+              ns: "video", 
+              id: "V/371639"
+            }, 
+            {
+              stat: {
+                id: 74195, 
+                tp: "album"
+              }, 
+              target: {
+                url: "/tv/lean/v?id=74195", 
+                entity: "v:album", 
+                params: {
+                  android_intent: "intent:#Intent;action=android.intent.action.MITV_VIDEO_DETAILS;S.id=74195;end"
+                }, 
+                schema: "mitv"
+              }, 
+              title: "收获的季节", 
+              hint: {
+                right: 6.3
+              }, 
+              ui_type: {
+                style: "movie", 
+                name: "display_item", 
+                pos: {
+                  y: 0, 
+                  x: 2, 
+                  w: 1, 
+                  h: 1
+                }
+              }, 
+              images: {
+                poster: {
+                  url: "http://file.market.xiaomi.com/download/Duokan/Duokan/709efab3-5114-4222-a21d-a702424b3c4c/dk987141_20140811121524_b720.jpg", 
+                  md5: "f5bb3880182b938f6acbe15f7c3b315e"
+                }
+              }, 
+              ns: "video", 
+              id: "V/74195"
+            }, 
+            {
+              stat: {
+                id: 329494, 
+                tp: "album"
+              }, 
+              target: {
+                url: "/tv/lean/v?id=329494", 
+                entity: "v:album", 
+                params: {
+                  android_intent: "intent:#Intent;action=android.intent.action.MITV_VIDEO_DETAILS;S.id=329494;end"
+                }, 
+                schema: "mitv"
+              }, 
+              title: "硬骨头", 
+              hint: {
+                right: 8.8
+              }, 
+              ui_type: {
+                style: "movie", 
+                name: "display_item", 
+                pos: {
+                  y: 0, 
+                  x: 3, 
+                  w: 1, 
+                  h: 1
+                }
+              }, 
+              images: {
+                poster: {
+                  url: "http://image.box.xiaomi.com/mfsv2/download/fdsc3/p01jKHK3RsDZ/mSzegBMwef4QbR.jpg", 
+                  md5: "8cc266882b5cff3e9eff08cdf149b442"
+                }
+              }, 
+              ns: "video", 
+              id: "V/329494"
+            }, 
+            {
+              stat: {
+                id: 73806, 
+                tp: "album"
+              }, 
+              target: {
+                url: "/tv/lean/v?id=73806", 
+                entity: "v:album", 
+                params: {
+                  android_intent: "intent:#Intent;action=android.intent.action.MITV_VIDEO_DETAILS;S.id=73806;end"
+                }, 
+                schema: "mitv"
+              }, 
+              title: "刀影", 
+              hint: {
+                right: 4.1
+              }, 
+              ui_type: {
+                style: "movie", 
+                name: "display_item", 
+                pos: {
+                  y: 0, 
+                  x: 4, 
+                  w: 1, 
+                  h: 1
+                }
+              }, 
+              images: {
+                poster: {
+                  url: "http://file.market.xiaomi.com/download/Duokan/Duokan/8b665306-e0ec-42a5-b022-36e5c96cebf6/dk984175_20140621181415_b720.jpg", 
+                  md5: "ce97b47fbaae1c87010640dacda1f1b6"
+                }
+              }, 
+              ns: "video", 
+              id: "V/73806"
+            }, 
+            {
+              stat: {
+                id: 75178, 
+                tp: "album"
+              }, 
+              target: {
+                url: "/tv/lean/v?id=75178", 
+                entity: "v:album", 
+                params: {
+                  android_intent: "intent:#Intent;action=android.intent.action.MITV_VIDEO_DETAILS;S.id=75178;end"
+                }, 
+                schema: "mitv"
+              }, 
+              title: "神探狄仁杰2", 
+              hint: {
+                right: 8
+              }, 
+              ui_type: {
+                style: "movie", 
+                name: "display_item", 
+                pos: {
+                  y: 0, 
+                  x: 5, 
+                  w: 1, 
+                  h: 1
+                }
+              }, 
+              images: {
+                poster: {
+                  url: "http://file.market.xiaomi.com/download/Duokan/d57/3847c45e27ea70beeaa2b4f1d59d5193d1086f2f/dk87968_20130124043821_b720.jpg", 
+                  md5: "9961a994c4e876169b11e7a73f5eef79"
+                }
+              }, 
+              ns: "video", 
+              id: "V/75178"
             }, 
             {
               stat: {
@@ -1307,7 +1534,7 @@
           title: "会员影片推荐", 
           ui_type: {
             columns: 6, 
-            name: "block_grid", 
+            name: "block_grid_classic_same", 
             ratio: 0.66, 
             unitary: true
           }
@@ -1373,7 +1600,6 @@
           title: "节目", 
           ui_type: {
             name: "block_grid_classic_h", 
-
             unitary: false
           }
         }, 
@@ -2662,7 +2888,7 @@
           title: "推荐", 
           ui_type: {
             columns: 6, 
-            name: "block_grid_classic_same",
+            name: "block_grid_classic_same", 
             ratio: 0.66
           }
         }
