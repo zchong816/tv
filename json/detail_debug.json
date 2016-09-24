@@ -1829,42 +1829,6 @@
               }, 
               ns: "video", 
               id: "V/173609"
-            }, 
-            {
-              stat: {
-                id: 77660, 
-                tp: "album"
-              }, 
-              target: {
-                url: "/tv/lean/v?id=77660", 
-                entity: "v:album", 
-                params: {
-                  android_intent: "intent:#Intent;action=android.intent.action.MITV_VIDEO_DETAILS;S.id=77660;end"
-                }, 
-                schema: "mitv"
-              }, 
-              title: "青年医生", 
-              hint: {
-                right: 5.7
-              }, 
-              ui_type: {
-                style: "movie", 
-                name: "display_item", 
-                pos: {
-                  y: 5, 
-                  x: 5, 
-                  w: 1, 
-                  h: 1
-                }
-              }, 
-              images: {
-                poster: {
-                  url: "http://image.box.xiaomi.com/mfsv2/download/s010/p01xslnWlUF4/qxaU1e2b1ETfMD.jpg", 
-                  md5: "6504645f2ab6fdf3f190f4aef7a480d9"
-                }
-              }, 
-              ns: "video", 
-              id: "V/77660"
             }
           ], 
           ui_type: {
