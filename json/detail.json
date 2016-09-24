@@ -1569,9 +1569,10 @@
             }
           ], 
           ui_type: {
-            ratio: 0.667, 
-            name: "block_grid_classic_same", 
-            columns: 6
+            columns: 6, 
+            name: "block_grid", 
+            ratio: 0.66, 
+            unitary: true
           }, 
           title: "相关节目"
         }
