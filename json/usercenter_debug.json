@@ -2697,9 +2697,8 @@
           title: "推荐", 
           ui_type: {
             columns: 6, 
-            name: "block_grid_hot", 
-            ratio: 0.66,
-            unitary: true
+            name: "block_grid_same", 
+            ratio: 0.66
           }
         }
       ], 
