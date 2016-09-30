@@ -1,0 +1,11 @@
+{
+  status: "success", 
+  tv_multi_switch: 0, 
+  code: 1, 
+  server_time: 1475209848, 
+  format: "1,2,3,4,5,6", 
+  guid: "0b8a83367b9b61891cc7b481025d45f9",
+  update:{
+  	vercode:2000001
+  }
+}
