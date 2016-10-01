@@ -8,6 +8,6 @@
   update:{
   	vercode:2000005,
   	type:3,
-    desc:"优化性能"
+    desc:"优化性能,降低内存占用"
   }
 }
