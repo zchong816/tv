@@ -6,8 +6,8 @@
   format: "1,2,3,4,5,6", 
   guid: "0b8a83367b9b61891cc7b481025d45f9",
   update:{
-  	vercode:2000004,
+  	vercode:2000005,
   	type:3,
-    desc:"改用方角海报试试图片加载性能"
+    desc:"优化性能"
   }
 }
