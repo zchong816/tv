@@ -6,8 +6,8 @@
   format: "1,2,3,4,5,6", 
   guid: "0b8a83367b9b61891cc7b481025d45f9",
   update:{
-  	vercode:2000024,
+  	vercode:2000025,
   	type:3,
-    desc:"bug fix...\n频道列表页添加程序干预添加title"
+    desc:"bug fix...\n更新播放器"
   }
 }
