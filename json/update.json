@@ -6,8 +6,8 @@
   format: "1,2,3,4,5,6", 
   guid: "0b8a83367b9b61891cc7b481025d45f9",
   update:{
-  	vercode:2000027,
+  	vercode:2000028,
   	type:3,
-    desc:"bug fix...\n更新播放器"
+    desc:"bug fix...\n固定导航"
   }
 }
