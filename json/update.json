@@ -6,7 +6,7 @@
   format: "1,2,3,4,5,6", 
   guid: "0b8a83367b9b61891cc7b481025d45f9",
   update:{
-  	vercode:2000035,
+  	vercode:2000036,
   	type:3,
     desc:"bug fix...\n列表页x"
   }
