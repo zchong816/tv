@@ -1,0 +1,1407 @@
+{
+    "blocks": [
+        {
+            "blocks": [
+                
+                {
+                    "items": [
+                        {
+                            "id": "YK/097c0660555811e6bdbb",
+                            "images": {
+                                "poster": {
+                                    "md5": "a75d696bcc8070c2bb7ce1325a158065",
+                                    "url": "http://r4.cp31.ott.cibntv.net/05160000579B051A67BC3C55F601A5E2"
+                                }
+                            },
+                            "ns": "video",
+                            "stat": {
+                                "id": "097c0660555811e6bdbb",
+                                "tp": "list"
+                            },
+                            "target": {
+                                "entity": "detail:show",
+                                "schema": "yktv",
+                                "url": "tv/v3/show/detail?id=097c0660555811e6bdbb"
+                            },
+                            "title": "青云志 未删减版",
+                            "ui_type": {
+                                "name": "display_item",
+                                "pos": {
+                                    "h": 1,
+                                    "w": 1,
+                                    "x": 0,
+                                    "y": 0
+                                }
+                            }
+                        },
+                        {
+                            "id": "YK/c553cf20aad811e59e2a",
+                            "images": {
+                                "poster": {
+                                    "md5": "a75d696bcc8070c2bb7ce1325a158065",
+                                    "url": "http://r3.cp31.ott.cibntv.net/0516000057CCD92667BC3C5A8F002B23"
+                                }
+                            },
+                            "ns": "video",
+                            "stat": {
+                                "id": "c553cf20aad811e59e2a",
+                                "tp": "list"
+                            },
+                            "target": {
+                                "entity": "detail:show",
+                                "schema": "yktv",
+                                "url": "tv/v3/show/detail?id=c553cf20aad811e59e2a"
+                            },
+                            "title": "麻雀 TV版",
+                            "ui_type": {
+                                "name": "display_item",
+                                "pos": {
+                                    "h": 1,
+                                    "w": 1,
+                                    "x": 1,
+                                    "y": 0
+                                }
+                            }
+                        },
+                        {
+                            "id": "YK/9c4eb7da931211e5be16",
+                            "images": {
+                                "poster": {
+                                    "md5": "a75d696bcc8070c2bb7ce1325a158065",
+                                    "url": "http://r4.cp31.ott.cibntv.net/051600005655114567BC3C5A870DF863"
+                                }
+                            },
+                            "ns": "video",
+                            "stat": {
+                                "id": "9c4eb7da931211e5be16",
+                                "tp": "list"
+                            },
+                            "target": {
+                                "entity": "detail:show",
+                                "schema": "yktv",
+                                "url": "tv/v3/show/detail?id=9c4eb7da931211e5be16"
+                            },
+                            "title": "炮神",
+                            "ui_type": {
+                                "name": "display_item",
+                                "pos": {
+                                    "h": 1,
+                                    "w": 1,
+                                    "x": 2,
+                                    "y": 0
+                                }
+                            }
+                        },
+                        {
+                            "id": "YK/c8193f92458e11e5b5ce",
+                            "images": {
+                                "poster": {
+                                    "md5": "a75d696bcc8070c2bb7ce1325a158065",
+                                    "url": "http://r4.cp31.ott.cibntv.net/051600005796D6AE67BC3C50270A26BD"
+                                }
+                            },
+                            "ns": "video",
+                            "stat": {
+                                "id": "c8193f92458e11e5b5ce",
+                                "tp": "list"
+                            },
+                            "target": {
+                                "entity": "detail:show",
+                                "schema": "yktv",
+                                "url": "tv/v3/show/detail?id=c8193f92458e11e5b5ce"
+                            },
+                            "title": "幻城 TV版",
+                            "ui_type": {
+                                "name": "display_item",
+                                "pos": {
+                                    "h": 1,
+                                    "w": 1,
+                                    "x": 3,
+                                    "y": 0
+                                }
+                            }
+                        },
+                        {
+                            "id": "YK/ff11bd18562611e1b318",
+                            "images": {
+                                "poster": {
+                                    "md5": "a75d696bcc8070c2bb7ce1325a158065",
+                                    "url": "http://r3.cp31.ott.cibntv.net/05160000530EF4B7675839769608D4FC"
+                                }
+                            },
+                            "ns": "video",
+                            "stat": {
+                                "id": "ff11bd18562611e1b318",
+                                "tp": "list"
+                            },
+                            "target": {
+                                "entity": "detail:show",
+                                "schema": "yktv",
+                                "url": "tv/v3/show/detail?id=ff11bd18562611e1b318"
+                            },
+                            "title": "错点鸳鸯 戏点鸳鸯",
+                            "ui_type": {
+                                "name": "display_item",
+                                "pos": {
+                                    "h": 1,
+                                    "w": 1,
+                                    "x": 4,
+                                    "y": 0
+                                }
+                            }
+                        },
+                        {
+                            "id": "YK/ff1ec8bc835b11e5b2ad",
+                            "images": {
+                                "poster": {
+                                    "md5": "a75d696bcc8070c2bb7ce1325a158065",
+                                    "url": "http://r2.cp31.ott.cibntv.net/0516000057A98E1367BC3C13F903C50D"
+                                }
+                            },
+                            "ns": "video",
+                            "stat": {
+                                "id": "ff1ec8bc835b11e5b2ad",
+                                "tp": "list"
+                            },
+                            "target": {
+                                "entity": "detail:show",
+                                "schema": "yktv",
+                                "url": "tv/v3/show/detail?id=ff1ec8bc835b11e5b2ad"
+                            },
+                            "title": "麻辣变形计 TV版",
+                            "ui_type": {
+                                "name": "display_item",
+                                "pos": {
+                                    "h": 1,
+                                    "w": 1,
+                                    "x": 5,
+                                    "y": 0
+                                }
+                            }
+                        },
+                        {
+                            "id": "YK/70902150919c11e0a046",
+                            "images": {
+                                "poster": {
+                                    "md5": "a75d696bcc8070c2bb7ce1325a158065",
+                                    "url": "http://r1.cp31.ott.cibntv.net/0516000051B6F2FA67583905D3081E0A"
+                                }
+                            },
+                            "ns": "video",
+                            "stat": {
+                                "id": "70902150919c11e0a046",
+                                "tp": "list"
+                            },
+                            "target": {
+                                "entity": "detail:show",
+                                "schema": "yktv",
+                                "url": "tv/v3/show/detail?id=70902150919c11e0a046"
+                            },
+                            "title": "楚汉传奇",
+                            "ui_type": {
+                                "name": "display_item",
+                                "pos": {
+                                    "h": 1,
+                                    "w": 1,
+                                    "x": 0,
+                                    "y": 1
+                                }
+                            }
+                        },
+                        {
+                            "id": "YK/d56886dc86fc11e3a705",
+                            "images": {
+                                "poster": {
+                                    "md5": "a75d696bcc8070c2bb7ce1325a158065",
+                                    "url": "http://r2.cp31.ott.cibntv.net/0516000055C1D53667BC3C5B85088413"
+                                }
+                            },
+                            "ns": "video",
+                            "stat": {
+                                "id": "d56886dc86fc11e3a705",
+                                "tp": "list"
+                            },
+                            "target": {
+                                "entity": "detail:show",
+                                "schema": "yktv",
+                                "url": "tv/v3/show/detail?id=d56886dc86fc11e3a705"
+                            },
+                            "title": "琅琊榜",
+                            "ui_type": {
+                                "name": "display_item",
+                                "pos": {
+                                    "h": 1,
+                                    "w": 1,
+                                    "x": 1,
+                                    "y": 1
+                                }
+                            }
+                        },
+                        {
+                            "id": "YK/21073c9078a111e5b692",
+                            "images": {
+                                "poster": {
+                                    "md5": "a75d696bcc8070c2bb7ce1325a158065",
+                                    "url": "http://r3.cp31.ott.cibntv.net/0516000057A0477A67BC3C451406F504"
+                                }
+                            },
+                            "ns": "video",
+                            "stat": {
+                                "id": "21073c9078a111e5b692",
+                                "tp": "list"
+                            },
+                            "target": {
+                                "entity": "detail:show",
+                                "schema": "yktv",
+                                "url": "tv/v3/show/detail?id=21073c9078a111e5b692"
+                            },
+                            "title": "仙剑云之凡",
+                            "ui_type": {
+                                "name": "display_item",
+                                "pos": {
+                                    "h": 1,
+                                    "w": 1,
+                                    "x": 2,
+                                    "y": 1
+                                }
+                            }
+                        },
+                        {
+                            "id": "YK/a3675f96e05a11e5b432",
+                            "images": {
+                                "poster": {
+                                    "md5": "a75d696bcc8070c2bb7ce1325a158065",
+                                    "url": "http://r3.cp31.ott.cibntv.net/0516000056D6B5FA67BC3C2A0A0B9262"
+                                }
+                            },
+                            "ns": "video",
+                            "stat": {
+                                "id": "a3675f96e05a11e5b432",
+                                "tp": "list"
+                            },
+                            "target": {
+                                "entity": "detail:show",
+                                "schema": "yktv",
+                                "url": "tv/v3/show/detail?id=a3675f96e05a11e5b432"
+                            },
+                            "title": "欢喜密探",
+                            "ui_type": {
+                                "name": "display_item",
+                                "pos": {
+                                    "h": 1,
+                                    "w": 1,
+                                    "x": 3,
+                                    "y": 1
+                                }
+                            }
+                        },
+                        {
+                            "id": "YK/fdf18d8e037d11e5abda",
+                            "images": {
+                                "poster": {
+                                    "md5": "a75d696bcc8070c2bb7ce1325a158065",
+                                    "url": "http://r4.cp31.ott.cibntv.net/0516000055642D5767BC3C7C85063384"
+                                }
+                            },
+                            "ns": "video",
+                            "stat": {
+                                "id": "fdf18d8e037d11e5abda",
+                                "tp": "list"
+                            },
+                            "target": {
+                                "entity": "detail:show",
+                                "schema": "yktv",
+                                "url": "tv/v3/show/detail?id=fdf18d8e037d11e5abda"
+                            },
+                            "title": "猎刃",
+                            "ui_type": {
+                                "name": "display_item",
+                                "pos": {
+                                    "h": 1,
+                                    "w": 1,
+                                    "x": 4,
+                                    "y": 1
+                                }
+                            }
+                        },
+                        {
+                            "id": "YK/6bb14b2275f611e4b2ad",
+                            "images": {
+                                "poster": {
+                                    "md5": "a75d696bcc8070c2bb7ce1325a158065",
+                                    "url": "http://r1.cp31.ott.cibntv.net/051600005476BDB167379F39620941EB"
+                                }
+                            },
+                            "ns": "video",
+                            "stat": {
+                                "id": "6bb14b2275f611e4b2ad",
+                                "tp": "list"
+                            },
+                            "target": {
+                                "entity": "detail:show",
+                                "schema": "yktv",
+                                "url": "tv/v3/show/detail?id=6bb14b2275f611e4b2ad"
+                            },
+                            "title": "谢文东之风云再起",
+                            "ui_type": {
+                                "name": "display_item",
+                                "pos": {
+                                    "h": 1,
+                                    "w": 1,
+                                    "x": 5,
+                                    "y": 1
+                                }
+                            }
+                        }
+                    ],
+                    "title": "相关节目",
+                    "ui_type": {
+                        "columns": 6,
+                        "name": "block_grid_classic_same",
+                        "ratio": 0.667
+                    }
+                }
+            ],
+            "meta": {
+                "more": "tv/v3/recommend?show_id=e46186b0f71711e5a080"
+            },
+            "ui_type": {
+                "name": "block_list"
+            }
+        }
+    ],
+    "media": {
+        "actorlist": [
+            {
+                "avatar": {
+                    "md5": "3f6848a0ebd9599c7d1d3000979f65ec",
+                    "url": "http://r3.cp31.ott.cibntv.net/0514000055D57C1667BC3C61E401CCBF"
+                },
+                "id": 348139,
+                "name": "李易峰"
+            },
+            {
+                "avatar": {
+                    "md5": "3f6848a0ebd9599c7d1d3000979f65ec",
+                    "url": "http://r3.cp31.ott.cibntv.net/0514000057CCE33C67BC3C0DFB0AA509"
+                },
+                "id": 288924,
+                "name": "赵丽颖"
+            },
+            {
+                "avatar": {
+                    "md5": "3f6848a0ebd9599c7d1d3000979f65ec",
+                    "url": "http://r1.cp31.ott.cibntv.net/05140000579EBB6B67BC3C0A760652DE"
+                },
+                "id": 22104,
+                "name": "杨紫"
+            },
+            {
+                "avatar": {
+                    "md5": "3f6848a0ebd9599c7d1d3000979f65ec",
+                    "url": "http://r4.cp31.ott.cibntv.net/051400005799646F67BC3C34AC04806E"
+                },
+                "id": 810039,
+                "name": "成毅"
+            },
+            {
+                "avatar": {
+                    "md5": "3f6848a0ebd9599c7d1d3000979f65ec",
+                    "url": "http://r2.cp31.ott.cibntv.net/0514000053B61AC767379F1531090BCA"
+                },
+                "id": 23028,
+                "name": "秦俊杰"
+            },
+            {
+                "avatar": {
+                    "md5": "3f6848a0ebd9599c7d1d3000979f65ec",
+                    "url": "http://r3.cp31.ott.cibntv.net/0514000057466B0C67BC3C226B0B1BDC"
+                },
+                "id": 406666,
+                "name": "茅子俊"
+            },
+            {
+                "avatar": {
+                    "md5": "3f6848a0ebd9599c7d1d3000979f65ec",
+                    "url": "http://r1.cp31.ott.cibntv.net/0514000057996B1267BC3C527206B1C9"
+                },
+                "id": 368299,
+                "name": "焦俊艳"
+            },
+            {
+                "avatar": {
+                    "md5": "3f6848a0ebd9599c7d1d3000979f65ec",
+                    "url": "http://r2.cp31.ott.cibntv.net/05140000576BB76567BC3C12980CD2ED"
+                },
+                "id": 887848,
+                "name": "白雪"
+            },
+            {
+                "avatar": {
+                    "md5": "3f6848a0ebd9599c7d1d3000979f65ec",
+                    "url": "http://r3.cp31.ott.cibntv.net/051400005437A53767379F67400716DA"
+                },
+                "id": 841507,
+                "name": "刘学义"
+            },
+            {
+                "avatar": {
+                    "md5": "3f6848a0ebd9599c7d1d3000979f65ec",
+                    "url": "http://r2.cp31.ott.cibntv.net/05140000573EA8ED67BC3C30D40BFDD1"
+                },
+                "id": 233178,
+                "name": "傅程鹏"
+            }
+        ],
+        "audience_ages": "保护级",
+        "cast_info": [
+            {
+                "display_name": "导演",
+                "value": [
+                    {
+                        "avatar": {
+                            "md5": "3f6848a0ebd9599c7d1d3000979f65ec",
+                            "url": "http://r4.cp31.ott.cibntv.net/0514000053E1EA9B67379F10FF0C5BEF"
+                        },
+                        "id": 17523,
+                        "name": "朱锐斌"
+                    },
+                    {
+                        "avatar": {
+                            "md5": "3f6848a0ebd9599c7d1d3000979f65ec",
+                            "url": "http://r2.cp31.ott.cibntv.net/05140000567E14FE67BC3C100D05E991"
+                        },
+                        "id": 878959,
+                        "name": "周远舟"
+                    }
+                ]
+            },
+            {
+                "display_name": "演员",
+                "value": [
+                    {
+                        "avatar": {
+                            "md5": "3f6848a0ebd9599c7d1d3000979f65ec",
+                            "url": "http://r3.cp31.ott.cibntv.net/0514000055D57C1667BC3C61E401CCBF"
+                        },
+                        "id": 348139,
+                        "name": "李易峰"
+                    },
+                    {
+                        "avatar": {
+                            "md5": "3f6848a0ebd9599c7d1d3000979f65ec",
+                            "url": "http://r3.cp31.ott.cibntv.net/0514000057CCE33C67BC3C0DFB0AA509"
+                        },
+                        "id": 288924,
+                        "name": "赵丽颖"
+                    },
+                    {
+                        "avatar": {
+                            "md5": "3f6848a0ebd9599c7d1d3000979f65ec",
+                            "url": "http://r1.cp31.ott.cibntv.net/05140000579EBB6B67BC3C0A760652DE"
+                        },
+                        "id": 22104,
+                        "name": "杨紫"
+                    },
+                    {
+                        "avatar": {
+                            "md5": "3f6848a0ebd9599c7d1d3000979f65ec",
+                            "url": "http://r4.cp31.ott.cibntv.net/051400005799646F67BC3C34AC04806E"
+                        },
+                        "id": 810039,
+                        "name": "成毅"
+                    },
+                    {
+                        "avatar": {
+                            "md5": "3f6848a0ebd9599c7d1d3000979f65ec",
+                            "url": "http://r2.cp31.ott.cibntv.net/0514000053B61AC767379F1531090BCA"
+                        },
+                        "id": 23028,
+                        "name": "秦俊杰"
+                    },
+                    {
+                        "avatar": {
+                            "md5": "3f6848a0ebd9599c7d1d3000979f65ec",
+                            "url": "http://r3.cp31.ott.cibntv.net/0514000057466B0C67BC3C226B0B1BDC"
+                        },
+                        "id": 406666,
+                        "name": "茅子俊"
+                    },
+                    {
+                        "avatar": {
+                            "md5": "3f6848a0ebd9599c7d1d3000979f65ec",
+                            "url": "http://r1.cp31.ott.cibntv.net/0514000057996B1267BC3C527206B1C9"
+                        },
+                        "id": 368299,
+                        "name": "焦俊艳"
+                    },
+                    {
+                        "avatar": {
+                            "md5": "3f6848a0ebd9599c7d1d3000979f65ec",
+                            "url": "http://r2.cp31.ott.cibntv.net/05140000576BB76567BC3C12980CD2ED"
+                        },
+                        "id": 887848,
+                        "name": "白雪"
+                    },
+                    {
+                        "avatar": {
+                            "md5": "3f6848a0ebd9599c7d1d3000979f65ec",
+                            "url": "http://r3.cp31.ott.cibntv.net/051400005437A53767379F67400716DA"
+                        },
+                        "id": 841507,
+                        "name": "刘学义"
+                    },
+                    {
+                        "avatar": {
+                            "md5": "3f6848a0ebd9599c7d1d3000979f65ec",
+                            "url": "http://r2.cp31.ott.cibntv.net/05140000573EA8ED67BC3C30D40BFDD1"
+                        },
+                        "id": 233178,
+                        "name": "傅程鹏"
+                    }
+                ]
+            }
+        ],
+        "category": "电视剧",
+        "completed": 0,
+        "desc": "",
+        "directorlist": [
+            {
+                "avatar": {
+                    "md5": "3f6848a0ebd9599c7d1d3000979f65ec",
+                    "url": "http://r4.cp31.ott.cibntv.net/0514000053E1EA9B67379F10FF0C5BEF"
+                },
+                "id": 17523,
+                "name": "朱锐斌"
+            },
+            {
+                "avatar": {
+                    "md5": "3f6848a0ebd9599c7d1d3000979f65ec",
+                    "url": "http://r2.cp31.ott.cibntv.net/05140000567E14FE67BC3C100D05E991"
+                },
+                "id": 878959,
+                "name": "周远舟"
+            }
+        ],
+        "display_fields": [
+            "2016",
+            "大陆",
+            "剧情/武侠/神话"
+        ],
+        "display_style": 0,
+        "douban_rating": "9.6",
+        "duration": 0,
+        "img_h": "http://r4.cp31.ott.cibntv.net/050C0000579B082067BC3C50260CE99E",
+        "img_v": "http://r4.cp31.ott.cibntv.net/050E0000576B75F667BC3C136B06E4E7",
+        "paid": 0,
+        "pk_odshow": "305803",
+        "posterurl": "http://r4.cp31.ott.cibntv.net/050E0000576B75F667BC3C136B06E4E7",
+        "premiere_date": 2016,
+        "publictype": 0,
+        "rating": "9.6",
+        "rating_info": [],
+        "regions": [
+            "大陆"
+        ],
+        "series": [
+            {
+                "format_flag": 0,
+                "img": "http://r3.cp31.ott.cibntv.net/0542040858105DDD6A0A47047B2044A2",
+                "is_new": true,
+                "is_new_release": 0,
+                "is_trailer": 1,
+                "limit": 0,
+                "pay_type": 0,
+                "pk_video": 443816070,
+                "play_flag": 0,
+                "show_videotype": "预告片",
+                "title": "《青云志》52集预告片",
+                "video_stage": 52,
+                "videoid": "XMTc3NTI2NDI4MA=="
+            },
+            {
+                "format_flag": 0,
+                "img": "http://r2.cp31.ott.cibntv.net/05420408580F16136A0A4F0513F209B4",
+                "is_new": true,
+                "is_new_release": 0,
+                "is_trailer": 1,
+                "limit": 0,
+                "pay_type": 0,
+                "pk_video": 443492282,
+                "play_flag": 0,
+                "show_videotype": "预告片",
+                "title": "《青云志》51集预告片",
+                "video_stage": 51,
+                "videoid": "XMTc3Mzk2OTEyOA=="
+            },
+            {
+                "format_flag": 0,
+                "img": "http://r4.cp31.ott.cibntv.net/0542040858099F8B6A0A41046C9A78C7",
+                "is_new": true,
+                "is_new_release": 0,
+                "is_trailer": 1,
+                "limit": 0,
+                "pay_type": 0,
+                "pk_video": 442133225,
+                "play_flag": 0,
+                "show_videotype": "预告片",
+                "title": "《青云志》50集预告片",
+                "video_stage": 50,
+                "videoid": "XMTc2ODUzMjkwMA=="
+            },
+            {
+                "format_flag": 0,
+                "img": "http://r3.cp31.ott.cibntv.net/05420408580852796A0A4904D38C472B",
+                "is_new": false,
+                "is_new_release": 0,
+                "is_trailer": 1,
+                "limit": 0,
+                "pay_type": 0,
+                "pk_video": 441821172,
+                "play_flag": 0,
+                "show_videotype": "预告片",
+                "title": "《青云志》49集预告片",
+                "video_stage": 49,
+                "videoid": "XMTc2NzI4NDY4OA=="
+            },
+            {
+                "format_flag": 0,
+                "img": "http://r3.cp31.ott.cibntv.net/054204085806FABE6A0A470462370ED7",
+                "is_new": false,
+                "is_new_release": 0,
+                "is_trailer": 1,
+                "limit": 0,
+                "pay_type": 0,
+                "pk_video": 441512471,
+                "play_flag": 0,
+                "show_videotype": "预告片",
+                "title": "《青云志》48集预告片",
+                "video_stage": 48,
+                "videoid": "XMTc2NjA0OTg4NA=="
+            },
+            {
+                "format_flag": 0,
+                "img": "http://r3.cp31.ott.cibntv.net/054204085805E1A46A0A450504A73EC5",
+                "is_new": true,
+                "is_new_release": 0,
+                "is_trailer": 1,
+                "limit": 0,
+                "pay_type": 0,
+                "pk_video": 441220858,
+                "play_flag": 0,
+                "show_videotype": "预告片",
+                "title": "《青云志》47集预告片",
+                "video_stage": 47,
+                "videoid": "XMTc2NDg4MzQzMg=="
+            },
+            {
+                "format_flag": 7,
+                "img": "http://r3.cp31.ott.cibntv.net/0542040858102A8F6A0A400461BB2A70",
+                "is_new": false,
+                "is_new_release": 0,
+                "is_trailer": 0,
+                "limit": 1,
+                "pay_type": 0,
+                "pk_video": 443590584,
+                "play_flag": 7,
+                "show_videotype": "正片",
+                "title": "青云志 46",
+                "video_stage": 46,
+                "videoid": "XMTc3NDM2MjMzNg=="
+            },
+            {
+                "format_flag": 7,
+                "img": "http://r2.cp31.ott.cibntv.net/0542040858102A796A0A4504F7E366C0",
+                "is_new": false,
+                "is_new_release": 0,
+                "is_trailer": 0,
+                "limit": 1,
+                "pay_type": 0,
+                "pk_video": 443590537,
+                "play_flag": 7,
+                "show_videotype": "正片",
+                "title": "青云志 45",
+                "video_stage": 45,
+                "videoid": "XMTc3NDM2MjE0OA=="
+            },
+            {
+                "format_flag": 7,
+                "img": "http://r4.cp31.ott.cibntv.net/05420408580ED2086A0A44045BDBE4EA",
+                "is_new": false,
+                "is_new_release": 0,
+                "is_trailer": 0,
+                "limit": 1,
+                "pay_type": 0,
+                "pk_video": 443229905,
+                "play_flag": 7,
+                "show_videotype": "正片",
+                "title": "青云志 44",
+                "video_stage": 44,
+                "videoid": "XMTc3MjkxOTYyMA=="
+            },
+            {
+                "format_flag": 7,
+                "img": "http://r2.cp31.ott.cibntv.net/05420408580ED2AC6A0A4904D84236B3",
+                "is_new": false,
+                "is_new_release": 0,
+                "is_trailer": 0,
+                "limit": 1,
+                "pay_type": 0,
+                "pk_video": 443229697,
+                "play_flag": 7,
+                "show_videotype": "正片",
+                "title": "青云志 43",
+                "video_stage": 43,
+                "videoid": "XMTc3MjkxODc4OA=="
+            },
+            {
+                "format_flag": 7,
+                "img": "http://r2.cp31.ott.cibntv.net/05420408580D92686A0A4004520565BF",
+                "is_new": false,
+                "is_new_release": 0,
+                "is_trailer": 0,
+                "limit": 1,
+                "pay_type": 0,
+                "pk_video": 442969567,
+                "play_flag": 7,
+                "show_videotype": "正片",
+                "title": "青云志 42",
+                "video_stage": 42,
+                "videoid": "XMTc3MTg3ODI2OA=="
+            },
+            {
+                "format_flag": 7,
+                "img": "http://r4.cp31.ott.cibntv.net/05420408580D95CD6A0A4604E24E0404",
+                "is_new": false,
+                "is_new_release": 0,
+                "is_trailer": 0,
+                "limit": 1,
+                "pay_type": 0,
+                "pk_video": 442956754,
+                "play_flag": 7,
+                "show_videotype": "正片",
+                "title": "青云志 41",
+                "video_stage": 41,
+                "videoid": "XMTc3MTgyNzAxNg=="
+            },
+            {
+                "format_flag": 7,
+                "img": "http://r4.cp31.ott.cibntv.net/05420408580458526A0A4C046954FFB1",
+                "is_new": false,
+                "is_new_release": 0,
+                "is_trailer": 0,
+                "limit": 1,
+                "pay_type": 0,
+                "pk_video": 440703395,
+                "play_flag": 7,
+                "show_videotype": "正片",
+                "title": "青云志 40",
+                "video_stage": 40,
+                "videoid": "XMTc2MjgxMzU4MA=="
+            },
+            {
+                "format_flag": 7,
+                "img": "http://r4.cp31.ott.cibntv.net/0542040858045AD46A0A4A045A8017A8",
+                "is_new": false,
+                "is_new_release": 0,
+                "is_trailer": 0,
+                "limit": 1,
+                "pay_type": 0,
+                "pk_video": 440703334,
+                "play_flag": 7,
+                "show_videotype": "正片",
+                "title": "青云志 39",
+                "video_stage": 39,
+                "videoid": "XMTc2MjgxMzMzNg=="
+            },
+            {
+                "format_flag": 7,
+                "img": "http://r3.cp31.ott.cibntv.net/0542040857FDB4C86A0A48046112526B",
+                "is_new": false,
+                "is_new_release": 0,
+                "is_trailer": 0,
+                "limit": 1,
+                "pay_type": 0,
+                "pk_video": 439165828,
+                "play_flag": 7,
+                "show_videotype": "正片",
+                "title": "青云志 38",
+                "video_stage": 38,
+                "videoid": "XMTc1NjY2MzMxMg=="
+            },
+            {
+                "format_flag": 7,
+                "img": "http://r2.cp31.ott.cibntv.net/0542040857FDB69A6A0A47047661186E",
+                "is_new": false,
+                "is_new_release": 0,
+                "is_trailer": 0,
+                "limit": 1,
+                "pay_type": 0,
+                "pk_video": 439130293,
+                "play_flag": 7,
+                "show_videotype": "正片",
+                "title": "青云志 37",
+                "video_stage": 37,
+                "videoid": "XMTc1NjUyMTE3Mg=="
+            },
+            {
+                "format_flag": 7,
+                "img": "http://r2.cp31.ott.cibntv.net/0542040857FC7C216A0A4904D29DD5FA",
+                "is_new": false,
+                "is_new_release": 0,
+                "is_trailer": 0,
+                "limit": 1,
+                "pay_type": 0,
+                "pk_video": 438835237,
+                "play_flag": 7,
+                "show_videotype": "正片",
+                "title": "青云志 36",
+                "video_stage": 36,
+                "videoid": "XMTc1NTM0MDk0OA=="
+            },
+            {
+                "format_flag": 7,
+                "img": "http://r4.cp31.ott.cibntv.net/0542040857FC7E296A0A4A045CA253F7",
+                "is_new": false,
+                "is_new_release": 0,
+                "is_trailer": 0,
+                "limit": 1,
+                "pay_type": 0,
+                "pk_video": 438835190,
+                "play_flag": 7,
+                "show_videotype": "正片",
+                "title": "青云志 35",
+                "video_stage": 35,
+                "videoid": "XMTc1NTM0MDc2MA=="
+            },
+            {
+                "format_flag": 7,
+                "img": "http://r3.cp31.ott.cibntv.net/0542040857FB28846A0A4504F4190FDC",
+                "is_new": false,
+                "is_new_release": 0,
+                "is_trailer": 0,
+                "limit": 1,
+                "pay_type": 0,
+                "pk_video": 438469814,
+                "play_flag": 7,
+                "show_videotype": "正片",
+                "title": "青云志 34",
+                "video_stage": 34,
+                "videoid": "XMTc1Mzg3OTI1Ng=="
+            },
+            {
+                "format_flag": 7,
+                "img": "http://r1.cp31.ott.cibntv.net/0542040857FB2A5D6A0A4004E0E938D9",
+                "is_new": false,
+                "is_new_release": 0,
+                "is_trailer": 0,
+                "limit": 1,
+                "pay_type": 0,
+                "pk_video": 438469691,
+                "play_flag": 7,
+                "show_videotype": "正片",
+                "title": "青云志 33",
+                "video_stage": 33,
+                "videoid": "XMTc1Mzg3ODc2NA=="
+            },
+            {
+                "format_flag": 7,
+                "img": "http://r3.cp31.ott.cibntv.net/0542040857F473F26A0A4E043E1AB39C",
+                "is_new": false,
+                "is_new_release": 0,
+                "is_trailer": 0,
+                "limit": 1,
+                "pay_type": 0,
+                "pk_video": 437033004,
+                "play_flag": 7,
+                "show_videotype": "正片",
+                "title": "青云志 32",
+                "video_stage": 32,
+                "videoid": "XMTc0ODEzMjAxNg=="
+            },
+            {
+                "format_flag": 7,
+                "img": "http://r4.cp31.ott.cibntv.net/0542040857F475B66A0A49045DC6779A",
+                "is_new": false,
+                "is_new_release": 0,
+                "is_trailer": 0,
+                "limit": 1,
+                "pay_type": 0,
+                "pk_video": 437032961,
+                "play_flag": 7,
+                "show_videotype": "正片",
+                "title": "青云志 31",
+                "video_stage": 31,
+                "videoid": "XMTc0ODEzMTg0NA=="
+            },
+            {
+                "format_flag": 7,
+                "img": "http://r1.cp31.ott.cibntv.net/0542040857F331EA6A0A49044CBFC5D9",
+                "is_new": false,
+                "is_new_release": 0,
+                "is_trailer": 0,
+                "limit": 1,
+                "pay_type": 0,
+                "pk_video": 436719568,
+                "play_flag": 7,
+                "show_videotype": "正片",
+                "title": "青云志 30",
+                "video_stage": 30,
+                "videoid": "XMTc0Njg3ODI3Mg=="
+            },
+            {
+                "format_flag": 7,
+                "img": "http://r4.cp31.ott.cibntv.net/0542040857F333A16A0A410475D77B0A",
+                "is_new": false,
+                "is_new_release": 0,
+                "is_trailer": 0,
+                "limit": 1,
+                "pay_type": 0,
+                "pk_video": 436719392,
+                "play_flag": 7,
+                "show_videotype": "正片",
+                "title": "青云志 29",
+                "video_stage": 29,
+                "videoid": "XMTc0Njg3NzU2OA=="
+            },
+            {
+                "format_flag": 7,
+                "img": "http://r3.cp31.ott.cibntv.net/0542040857F1D6E56A0A49045E7228C2",
+                "is_new": false,
+                "is_new_release": 0,
+                "is_trailer": 0,
+                "limit": 1,
+                "pay_type": 0,
+                "pk_video": 436527116,
+                "play_flag": 7,
+                "show_videotype": "正片",
+                "title": "青云志 28",
+                "video_stage": 28,
+                "videoid": "XMTc0NjEwODQ2NA=="
+            },
+            {
+                "format_flag": 7,
+                "img": "http://r3.cp31.ott.cibntv.net/0542040857F1D8566A0A4D0489540D65",
+                "is_new": false,
+                "is_new_release": 0,
+                "is_trailer": 0,
+                "limit": 1,
+                "pay_type": 0,
+                "pk_video": 436513231,
+                "play_flag": 7,
+                "show_videotype": "正片",
+                "title": "青云志 27",
+                "video_stage": 27,
+                "videoid": "XMTc0NjA1MjkyNA=="
+            },
+            {
+                "format_flag": 7,
+                "img": "http://r2.cp31.ott.cibntv.net/0542040857EB51726A0A4D04785DA7FE",
+                "is_new": false,
+                "is_new_release": 0,
+                "is_trailer": 0,
+                "limit": 1,
+                "pay_type": 0,
+                "pk_video": 435058162,
+                "play_flag": 7,
+                "show_videotype": "正片",
+                "title": "青云志 26",
+                "video_stage": 26,
+                "videoid": "XMTc0MDIzMjY0OA=="
+            },
+            {
+                "format_flag": 7,
+                "img": "http://r1.cp31.ott.cibntv.net/0542040857EB526F6A0A41046A3CBF73",
+                "is_new": false,
+                "is_new_release": 0,
+                "is_trailer": 0,
+                "limit": 1,
+                "pay_type": 0,
+                "pk_video": 435058061,
+                "play_flag": 7,
+                "show_videotype": "正片",
+                "title": "青云志 25",
+                "video_stage": 25,
+                "videoid": "XMTc0MDIzMjI0NA=="
+            },
+            {
+                "format_flag": 7,
+                "img": "http://r4.cp31.ott.cibntv.net/0542040857EB4A486A0A4E045251D264",
+                "is_new": false,
+                "is_new_release": 0,
+                "is_trailer": 0,
+                "limit": 1,
+                "pay_type": 0,
+                "pk_video": 434838545,
+                "play_flag": 7,
+                "show_videotype": "正片",
+                "title": "青云志 24",
+                "video_stage": 24,
+                "videoid": "XMTczOTM1NDE4MA=="
+            },
+            {
+                "format_flag": 7,
+                "img": "http://r3.cp31.ott.cibntv.net/0542040857E9FE936A0A45050607EFAC",
+                "is_new": false,
+                "is_new_release": 0,
+                "is_trailer": 0,
+                "limit": 1,
+                "pay_type": 0,
+                "pk_video": 434823683,
+                "play_flag": 7,
+                "show_videotype": "正片",
+                "title": "青云志 23",
+                "video_stage": 23,
+                "videoid": "XMTczOTI5NDczMg=="
+            },
+            {
+                "format_flag": 7,
+                "img": "http://r2.cp31.ott.cibntv.net/0542040857E8BB926A0A4604DA1B2668",
+                "is_new": false,
+                "is_new_release": 0,
+                "is_trailer": 0,
+                "limit": 1,
+                "pay_type": 0,
+                "pk_video": 434500882,
+                "play_flag": 7,
+                "show_videotype": "正片",
+                "title": "青云志 22",
+                "video_stage": 22,
+                "videoid": "XMTczODAwMzUyOA=="
+            },
+            {
+                "format_flag": 7,
+                "img": "http://r2.cp31.ott.cibntv.net/0542040857E8B0736A0A4C046A9ABBEF",
+                "is_new": false,
+                "is_new_release": 0,
+                "is_trailer": 0,
+                "limit": 1,
+                "pay_type": 0,
+                "pk_video": 434500826,
+                "play_flag": 7,
+                "show_videotype": "正片",
+                "title": "青云志 21",
+                "video_stage": 21,
+                "videoid": "XMTczODAwMzMwNA=="
+            },
+            {
+                "format_flag": 7,
+                "img": "http://r4.cp31.ott.cibntv.net/0542040857E2135E6A0A4004DACD250E",
+                "is_new": false,
+                "is_new_release": 0,
+                "is_trailer": 0,
+                "limit": 1,
+                "pay_type": 0,
+                "pk_video": 433059781,
+                "play_flag": 7,
+                "show_videotype": "正片",
+                "title": "青云志 20",
+                "video_stage": 20,
+                "videoid": "XMTczMjIzOTEyNA=="
+            },
+            {
+                "format_flag": 7,
+                "img": "http://r2.cp31.ott.cibntv.net/0542040857E2159B6A0A4604CCE5F485",
+                "is_new": false,
+                "is_new_release": 0,
+                "is_trailer": 0,
+                "limit": 1,
+                "pay_type": 0,
+                "pk_video": 433058054,
+                "play_flag": 7,
+                "show_videotype": "正片",
+                "title": "青云志 19",
+                "video_stage": 19,
+                "videoid": "XMTczMjIzMjIxNg=="
+            },
+            {
+                "format_flag": 7,
+                "img": "http://r4.cp31.ott.cibntv.net/0542010157E1F2B16A0A4304E312CF3F",
+                "is_new": false,
+                "is_new_release": 0,
+                "is_trailer": 0,
+                "limit": 1,
+                "pay_type": 0,
+                "pk_video": 432742892,
+                "play_flag": 7,
+                "show_videotype": "正片",
+                "title": "青云志 18",
+                "video_stage": 18,
+                "videoid": "XMTczMDk3MTU2OA=="
+            },
+            {
+                "format_flag": 7,
+                "img": "http://r3.cp31.ott.cibntv.net/0542010157E1F32B6A0A470478CA4152",
+                "is_new": true,
+                "is_new_release": 1,
+                "is_trailer": 0,
+                "limit": 1,
+                "pay_type": 0,
+                "pk_video": 432742799,
+                "play_flag": 7,
+                "show_videotype": "正片",
+                "title": "青云志 17",
+                "video_stage": 17,
+                "videoid": "XMTczMDk3MTE5Ng=="
+            },
+            {
+                "format_flag": 7,
+                "img": "http://r1.cp31.ott.cibntv.net/0542040857DF61DC6A0A48045BF0D871",
+                "is_new": false,
+                "is_new_release": 0,
+                "is_trailer": 0,
+                "limit": 1,
+                "pay_type": 0,
+                "pk_video": 432399201,
+                "play_flag": 7,
+                "show_videotype": "正片",
+                "title": "青云志 16",
+                "video_stage": 16,
+                "videoid": "XMTcyOTU5NjgwNA=="
+            },
+            {
+                "format_flag": 7,
+                "img": "http://r2.cp31.ott.cibntv.net/0542010157E1F3E96A0A490446227D77",
+                "is_new": false,
+                "is_new_release": 0,
+                "is_trailer": 0,
+                "limit": 1,
+                "pay_type": 0,
+                "pk_video": 432399067,
+                "play_flag": 7,
+                "show_videotype": "正片",
+                "title": "青云志 15",
+                "video_stage": 15,
+                "videoid": "XMTcyOTU5NjI2OA=="
+            },
+            {
+                "format_flag": 7,
+                "img": "http://r3.cp31.ott.cibntv.net/0542010157DE438E6A0A4104780606C8",
+                "is_new": false,
+                "is_new_release": 0,
+                "is_trailer": 0,
+                "limit": 1,
+                "pay_type": 0,
+                "pk_video": 430514750,
+                "play_flag": 7,
+                "show_videotype": "正片",
+                "title": "青云志 14",
+                "video_stage": 14,
+                "videoid": "XMTcyMjA1OTAwMA=="
+            },
+            {
+                "format_flag": 7,
+                "img": "http://r1.cp31.ott.cibntv.net/0542010157DE44396A0A450458366FA3",
+                "is_new": false,
+                "is_new_release": 0,
+                "is_trailer": 0,
+                "limit": 1,
+                "pay_type": 0,
+                "pk_video": 430508325,
+                "play_flag": 7,
+                "show_videotype": "正片",
+                "title": "青云志 13",
+                "video_stage": 13,
+                "videoid": "XMTcyMjAzMzMwMA=="
+            },
+            {
+                "format_flag": 7,
+                "img": "http://r1.cp31.ott.cibntv.net/0542040857CCEB636A0A4F132E29EA12",
+                "is_new": false,
+                "is_new_release": 0,
+                "is_trailer": 0,
+                "limit": 1,
+                "pay_type": 0,
+                "pk_video": 428208095,
+                "play_flag": 7,
+                "show_videotype": "正片",
+                "title": "青云志 12",
+                "video_stage": 12,
+                "videoid": "XMTcxMjgzMjM4MA=="
+            },
+            {
+                "format_flag": 7,
+                "img": "http://r4.cp31.ott.cibntv.net/0542040857CCEBB96A0A440456144B01",
+                "is_new": false,
+                "is_new_release": 0,
+                "is_trailer": 0,
+                "limit": 1,
+                "pay_type": 0,
+                "pk_video": 428208033,
+                "play_flag": 7,
+                "show_videotype": "正片",
+                "title": "青云志 11",
+                "video_stage": 11,
+                "videoid": "XMTcxMjgzMjEzMg=="
+            },
+            {
+                "format_flag": 7,
+                "img": "http://r4.cp31.ott.cibntv.net/0542040857C3D2F26A0A44045D8DF283",
+                "is_new": false,
+                "is_new_release": 0,
+                "is_trailer": 0,
+                "limit": 1,
+                "pay_type": 0,
+                "pk_video": 425899889,
+                "play_flag": 7,
+                "show_videotype": "正片",
+                "title": "青云志 10",
+                "video_stage": 10,
+                "videoid": "XMTcwMzU5OTU1Ng=="
+            },
+            {
+                "format_flag": 7,
+                "img": "http://r3.cp31.ott.cibntv.net/0542040857C3D3DA6A0A4C046D3AC648",
+                "is_new": false,
+                "is_new_release": 0,
+                "is_trailer": 0,
+                "limit": 1,
+                "pay_type": 0,
+                "pk_video": 425899778,
+                "play_flag": 7,
+                "show_videotype": "正片",
+                "title": "青云志 09",
+                "video_stage": 9,
+                "videoid": "XMTcwMzU5OTExMg=="
+            },
+            {
+                "format_flag": 7,
+                "img": "http://r2.cp31.ott.cibntv.net/0542040857BA7A156A0A4604D7E660D5",
+                "is_new": false,
+                "is_new_release": 0,
+                "is_trailer": 0,
+                "limit": 1,
+                "pay_type": 0,
+                "pk_video": 423535052,
+                "play_flag": 7,
+                "show_videotype": "正片",
+                "title": "青云志 08",
+                "video_stage": 8,
+                "videoid": "XMTY5NDE0MDIwOA=="
+            },
+            {
+                "format_flag": 7,
+                "img": "http://r2.cp31.ott.cibntv.net/0542040857BA78FA6A0A4104777B1D90",
+                "is_new": false,
+                "is_new_release": 0,
+                "is_trailer": 0,
+                "limit": 1,
+                "pay_type": 0,
+                "pk_video": 423517213,
+                "play_flag": 7,
+                "show_videotype": "正片",
+                "title": "青云志 07",
+                "video_stage": 7,
+                "videoid": "XMTY5NDA2ODg1Mg=="
+            },
+            {
+                "format_flag": 7,
+                "img": "http://r3.cp31.ott.cibntv.net/0542040857B155EB6A0A3F045E6115E1",
+                "is_new": false,
+                "is_new_release": 0,
+                "is_trailer": 0,
+                "limit": 1,
+                "pay_type": 0,
+                "pk_video": 421185143,
+                "play_flag": 7,
+                "show_videotype": "正片",
+                "title": "青云志 06",
+                "video_stage": 6,
+                "videoid": "XMTY4NDc0MDU3Mg=="
+            },
+            {
+                "format_flag": 7,
+                "img": "http://r1.cp31.ott.cibntv.net/0542040857BD14496A0A4004E14F9156",
+                "is_new": false,
+                "is_new_release": 0,
+                "is_trailer": 0,
+                "limit": 1,
+                "pay_type": 0,
+                "pk_video": 421185060,
+                "play_flag": 7,
+                "show_videotype": "正片",
+                "title": "青云志 05",
+                "video_stage": 5,
+                "videoid": "XMTY4NDc0MDI0MA=="
+            },
+            {
+                "format_flag": 7,
+                "img": "http://r3.cp31.ott.cibntv.net/0542040857B287FB6A0A4604E2F4F6C4",
+                "is_new": false,
+                "is_new_release": 0,
+                "is_trailer": 0,
+                "limit": 1,
+                "pay_type": 0,
+                "pk_video": 418778397,
+                "play_flag": 7,
+                "show_videotype": "正片",
+                "title": "青云志 04",
+                "video_stage": 4,
+                "videoid": "XMTY3NTExMzU4OA=="
+            },
+            {
+                "format_flag": 7,
+                "img": "http://r3.cp31.ott.cibntv.net/0542040857B28DA36A0A4F132FDBD410",
+                "is_new": false,
+                "is_new_release": 0,
+                "is_trailer": 0,
+                "limit": 1,
+                "pay_type": 0,
+                "pk_video": 418778239,
+                "play_flag": 7,
+                "show_videotype": "正片",
+                "title": "青云志 03",
+                "video_stage": 3,
+                "videoid": "XMTY3NTExMjk1Ng=="
+            },
+            {
+                "format_flag": 7,
+                "img": "http://r3.cp31.ott.cibntv.net/0542020857B2D9466A0A4204E3035735",
+                "is_new": false,
+                "is_new_release": 0,
+                "is_trailer": 0,
+                "limit": 1,
+                "pay_type": 0,
+                "pk_video": 416499500,
+                "play_flag": 7,
+                "show_videotype": "正片",
+                "title": "青云志 02",
+                "video_stage": 2,
+                "videoid": "XMTY2NTk5ODAwMA=="
+            },
+            {
+                "format_flag": 7,
+                "img": "http://r2.cp31.ott.cibntv.net/0542050857B28A286A0A4604E323C0A8",
+                "is_new": false,
+                "is_new_release": 0,
+                "is_trailer": 0,
+                "limit": 1,
+                "pay_type": 0,
+                "pk_video": 416480939,
+                "play_flag": 7,
+                "show_videotype": "正片",
+                "title": "青云志 01",
+                "video_stage": 1,
+                "videoid": "XMTY2NTkyMzc1Ng=="
+            }
+        ],
+        "seriescount": 55,
+        "seriesnow": 46,
+        "show_logo": 1,
+        "show_videotype": "正片",
+        "showid": "e46186b0f71711e5a080",
+        "showname": "青云志 TV版",
+        "stripe_bottom": "更新至46集",
+        "title": "青云志 TV版",
+        "title_icon_label": "",
+        "total_vv": "18.36亿",
+        "type": 2,
+        "video_play_type": 1,
+        "videoid": "XMTY2NTkyMzc1Ng=="
+    },
+    "status": 0,
+    "ui_type": {
+        "name": "single_page"
+    },
+    "ver": 1473406894
+}
